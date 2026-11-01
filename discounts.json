@@ -1,0 +1,306 @@
+[
+  {
+    "id": "hever-sheli-careline-001",
+    "brandId": "careline",
+    "clubId": "hever-sheli",
+    "type": "percentage",
+    "discountPercentage": 20,
+    "originalPrice": null,
+    "discountedPrice": null,
+    "redemptionUrl": null,
+    "onlineRedemption": null,
+    "mobileRedemption": null,
+    "sourceUrl": null,
+    "lastVerified": null,
+    "verificationStatus": "seed",
+    "_meta": {
+      "source": "seed-data",
+      "note": "Initial seed record for UI development. Not independently verified against club website."
+    }
+  },
+  {
+    "id": "hever-sheli-carters-001",
+    "brandId": "carters",
+    "clubId": "hever-sheli",
+    "type": "percentage",
+    "discountPercentage": 20,
+    "originalPrice": null,
+    "discountedPrice": null,
+    "redemptionUrl": null,
+    "onlineRedemption": true,
+    "mobileRedemption": null,
+    "sourceUrl": null,
+    "lastVerified": null,
+    "verificationStatus": "seed",
+    "_meta": {
+      "source": "seed-data",
+      "note": "Initial seed record for UI development. Not independently verified against club website."
+    }
+  },
+  {
+    "id": "hever-sheli-casa-bella-001",
+    "brandId": "casa-bella",
+    "clubId": "hever-sheli",
+    "type": "percentage",
+    "discountPercentage": 20,
+    "originalPrice": null,
+    "discountedPrice": null,
+    "redemptionUrl": null,
+    "onlineRedemption": true,
+    "mobileRedemption": null,
+    "sourceUrl": null,
+    "lastVerified": null,
+    "verificationStatus": "seed",
+    "_meta": {
+      "source": "seed-data",
+      "note": "Initial seed record for UI development. Not independently verified against club website."
+    }
+  },
+  {
+    "id": "hever-sheli-chicco-001",
+    "brandId": "chicco",
+    "clubId": "hever-sheli",
+    "type": "percentage",
+    "discountPercentage": 20,
+    "originalPrice": null,
+    "discountedPrice": null,
+    "redemptionUrl": null,
+    "onlineRedemption": true,
+    "mobileRedemption": null,
+    "sourceUrl": null,
+    "lastVerified": null,
+    "verificationStatus": "seed",
+    "_meta": {
+      "source": "seed-data",
+      "note": "Initial seed record for UI development. Not independently verified against club website."
+    }
+  },
+  {
+    "id": "hever-sheli-chill-shop-001",
+    "brandId": "chill-shop",
+    "clubId": "hever-sheli",
+    "type": "percentage",
+    "discountPercentage": 20,
+    "originalPrice": null,
+    "discountedPrice": null,
+    "redemptionUrl": null,
+    "onlineRedemption": true,
+    "mobileRedemption": null,
+    "sourceUrl": null,
+    "lastVerified": null,
+    "verificationStatus": "seed",
+    "_meta": {
+      "source": "seed-data",
+      "note": "Initial seed record for UI development. Not independently verified against club website."
+    }
+  },
+  {
+    "id": "hever-sheli-chozen-001",
+    "brandId": "chozen",
+    "clubId": "hever-sheli",
+    "type": "percentage",
+    "discountPercentage": 20,
+    "originalPrice": null,
+    "discountedPrice": null,
+    "redemptionUrl": null,
+    "onlineRedemption": null,
+    "mobileRedemption": null,
+    "sourceUrl": null,
+    "lastVerified": null,
+    "verificationStatus": "seed",
+    "_meta": {
+      "source": "seed-data",
+      "note": "Initial seed record for UI development. Not independently verified against club website."
+    }
+  },
+  {
+    "id": "hever-sheli-clarins-001",
+    "brandId": "clarins",
+    "clubId": "hever-sheli",
+    "type": "percentage",
+    "discountPercentage": 20,
+    "originalPrice": null,
+    "discountedPrice": null,
+    "redemptionUrl": null,
+    "onlineRedemption": null,
+    "mobileRedemption": null,
+    "sourceUrl": null,
+    "lastVerified": null,
+    "verificationStatus": "seed",
+    "_meta": {
+      "source": "seed-data",
+      "note": "Initial seed record for UI development. Not independently verified against club website."
+    }
+  },
+  {
+    "id": "hever-sheli-converse-001",
+    "brandId": "converse",
+    "clubId": "hever-sheli",
+    "type": "percentage",
+    "discountPercentage": 20,
+    "originalPrice": null,
+    "discountedPrice": null,
+    "redemptionUrl": null,
+    "onlineRedemption": null,
+    "mobileRedemption": null,
+    "sourceUrl": null,
+    "lastVerified": null,
+    "verificationStatus": "seed",
+    "_meta": {
+      "source": "seed-data",
+      "note": "Initial seed record for UI development. Not independently verified against club website."
+    }
+  },
+  {
+    "id": "behatsdaa-careline-001",
+    "brandId": "careline",
+    "clubId": "behatsdaa",
+    "type": "percentage",
+    "discountPercentage": 15,
+    "originalPrice": null,
+    "discountedPrice": null,
+    "redemptionUrl": null,
+    "onlineRedemption": null,
+    "mobileRedemption": null,
+    "sourceUrl": null,
+    "lastVerified": null,
+    "verificationStatus": "seed",
+    "_meta": {
+      "source": "seed-data",
+      "note": "Initial seed record for UI development. Not independently verified against club website."
+    }
+  },
+  {
+    "id": "behatsdaa-carters-001",
+    "brandId": "carters",
+    "clubId": "behatsdaa",
+    "type": "percentage",
+    "discountPercentage": 15,
+    "originalPrice": null,
+    "discountedPrice": null,
+    "redemptionUrl": null,
+    "onlineRedemption": null,
+    "mobileRedemption": null,
+    "sourceUrl": null,
+    "lastVerified": null,
+    "verificationStatus": "seed",
+    "_meta": {
+      "source": "seed-data",
+      "note": "Initial seed record for UI development. Not independently verified against club website."
+    }
+  },
+  {
+    "id": "behatsdaa-casa-bella-001",
+    "brandId": "casa-bella",
+    "clubId": "behatsdaa",
+    "type": "percentage",
+    "discountPercentage": 15,
+    "originalPrice": null,
+    "discountedPrice": null,
+    "redemptionUrl": null,
+    "onlineRedemption": null,
+    "mobileRedemption": null,
+    "sourceUrl": null,
+    "lastVerified": null,
+    "verificationStatus": "seed",
+    "_meta": {
+      "source": "seed-data",
+      "note": "Initial seed record for UI development. Not independently verified against club website."
+    }
+  },
+  {
+    "id": "behatsdaa-chicco-001",
+    "brandId": "chicco",
+    "clubId": "behatsdaa",
+    "type": "percentage",
+    "discountPercentage": 15,
+    "originalPrice": null,
+    "discountedPrice": null,
+    "redemptionUrl": null,
+    "onlineRedemption": null,
+    "mobileRedemption": null,
+    "sourceUrl": null,
+    "lastVerified": null,
+    "verificationStatus": "seed",
+    "_meta": {
+      "source": "seed-data",
+      "note": "Initial seed record for UI development. Not independently verified against club website."
+    }
+  },
+  {
+    "id": "behatsdaa-chill-shop-001",
+    "brandId": "chill-shop",
+    "clubId": "behatsdaa",
+    "type": "percentage",
+    "discountPercentage": 15,
+    "originalPrice": null,
+    "discountedPrice": null,
+    "redemptionUrl": null,
+    "onlineRedemption": null,
+    "mobileRedemption": null,
+    "sourceUrl": null,
+    "lastVerified": null,
+    "verificationStatus": "seed",
+    "_meta": {
+      "source": "seed-data",
+      "note": "Initial seed record for UI development. Not independently verified against club website."
+    }
+  },
+  {
+    "id": "behatsdaa-chozen-001",
+    "brandId": "chozen",
+    "clubId": "behatsdaa",
+    "type": "percentage",
+    "discountPercentage": 15,
+    "originalPrice": null,
+    "discountedPrice": null,
+    "redemptionUrl": null,
+    "onlineRedemption": null,
+    "mobileRedemption": null,
+    "sourceUrl": null,
+    "lastVerified": null,
+    "verificationStatus": "seed",
+    "_meta": {
+      "source": "seed-data",
+      "note": "Initial seed record for UI development. Not independently verified against club website."
+    }
+  },
+  {
+    "id": "behatsdaa-clarins-001",
+    "brandId": "clarins",
+    "clubId": "behatsdaa",
+    "type": "percentage",
+    "discountPercentage": 15,
+    "originalPrice": null,
+    "discountedPrice": null,
+    "redemptionUrl": null,
+    "onlineRedemption": null,
+    "mobileRedemption": null,
+    "sourceUrl": null,
+    "lastVerified": null,
+    "verificationStatus": "seed",
+    "_meta": {
+      "source": "seed-data",
+      "note": "Initial seed record for UI development. Not independently verified against club website."
+    }
+  },
+  {
+    "id": "behatsdaa-converse-001",
+    "brandId": "converse",
+    "clubId": "behatsdaa",
+    "type": "percentage",
+    "discountPercentage": 15,
+    "originalPrice": null,
+    "discountedPrice": null,
+    "redemptionUrl": null,
+    "onlineRedemption": null,
+    "mobileRedemption": null,
+    "sourceUrl": null,
+    "lastVerified": null,
+    "verificationStatus": "seed",
+    "_meta": {
+      "source": "seed-data",
+      "note": "Initial seed record for UI development. Not independently verified against club website."
+    }
+  }
+]

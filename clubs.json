@@ -1,0 +1,26 @@
+[
+  {
+    "id": "hever-sheli",
+    "name": "חבר שלי",
+    "nameEn": "Hever Sheli",
+    "url": "https://www.mcc.co.il",
+    "color": "#0057B7",
+    "active": true
+  },
+  {
+    "id": "buyme",
+    "name": "ביימי",
+    "nameEn": "BuyMe",
+    "url": "https://www.buyme.co.il",
+    "color": "#E63946",
+    "active": true
+  },
+  {
+    "id": "behatsdaa",
+    "name": "בהצדעה",
+    "nameEn": "Behatsdaa",
+    "url": "https://www.behatsdaa.org.il",
+    "color": "#2A9D8F",
+    "active": true
+  }
+]

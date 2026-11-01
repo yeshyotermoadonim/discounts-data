@@ -1,0 +1,58 @@
+[
+  {
+    "id": "careline",
+    "name": "CARELINE",
+    "categories": ["beauty"],
+    "logoUrl": "https://www.mcc.co.il/pics/giftcard/careline.jpg",
+    "website": null
+  },
+  {
+    "id": "carters",
+    "name": "Carter's",
+    "categories": ["clothing-footwear", "children"],
+    "logoUrl": "https://www.mcc.co.il/pics/giftcard/logo_carters_oshkosh.jpg",
+    "website": null
+  },
+  {
+    "id": "casa-bella",
+    "name": "Casa Bella",
+    "categories": ["home"],
+    "logoUrl": "https://www.mcc.co.il/pics/giftcard/logo_casabella.jpg",
+    "website": null
+  },
+  {
+    "id": "chicco",
+    "name": "Chicco",
+    "categories": ["children", "gifts-leisure"],
+    "logoUrl": "https://www.mcc.co.il/pics/giftcard/logo_chicco.jpg",
+    "website": null
+  },
+  {
+    "id": "chill-shop",
+    "name": "Chill shop",
+    "categories": ["home"],
+    "logoUrl": "https://www.mcc.co.il/pics/giftcard/logo_chill.jpg",
+    "website": null
+  },
+  {
+    "id": "chozen",
+    "name": "CHOZEN",
+    "categories": ["jewelry"],
+    "logoUrl": "https://www.mcc.co.il/pics/giftcard/logo_chozen.jpg",
+    "website": null
+  },
+  {
+    "id": "clarins",
+    "name": "CLARINS",
+    "categories": ["beauty"],
+    "logoUrl": "https://www.mcc.co.il/pics/giftcard/logo_clarins.jpg",
+    "website": null
+  },
+  {
+    "id": "converse",
+    "name": "CONVERSE",
+    "categories": ["clothing-footwear"],
+    "logoUrl": "https://www.mcc.co.il/pics/giftcard/logo_converse.jpg",
+    "website": null
+  }
+]
