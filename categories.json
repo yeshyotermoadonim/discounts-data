@@ -1,14 +1,82 @@
 [
-  { "id": "clothing-footwear", "name": "ביגוד והנעלה" },
-  { "id": "clothing", "name": "ביגוד" },
-  { "id": "footwear", "name": "הנעלה" },
-  { "id": "children", "name": "ילדים ותינוקות" },
-  { "id": "beauty", "name": "טיפוח וקוסמטיקה" },
-  { "id": "home", "name": "לבית ולחצר" },
-  { "id": "jewelry", "name": "תכשיטים ואקססוריז" },
-  { "id": "gifts-leisure", "name": "מתנות ופנאי" },
-  { "id": "electronics", "name": "חשמל ואלקטרוניקה" },
-  { "id": "food", "name": "מזון ומסעדות" },
-  { "id": "sport", "name": "ספורט ופנאי" },
-  { "id": "tourism", "name": "תיירות ונופש" }
+  {
+    "id": "clothing-footwear",
+    "name": "ביגוד והנעלה"
+  },
+  {
+    "id": "clothing",
+    "name": "ביגוד"
+  },
+  {
+    "id": "footwear",
+    "name": "הנעלה"
+  },
+  {
+    "id": "children",
+    "name": "ילדים ותינוקות"
+  },
+  {
+    "id": "beauty",
+    "name": "טיפוח וקוסמטיקה"
+  },
+  {
+    "id": "home",
+    "name": "לבית ולחצר"
+  },
+  {
+    "id": "jewelry",
+    "name": "תכשיטים ואקססוריז"
+  },
+  {
+    "id": "gifts-leisure",
+    "name": "מתנות ופנאי"
+  },
+  {
+    "id": "electronics",
+    "name": "חשמל ואלקטרוניקה"
+  },
+  {
+    "id": "food",
+    "name": "מזון ומסעדות"
+  },
+  {
+    "id": "sport",
+    "name": "ספורט ופנאי"
+  },
+  {
+    "id": "tourism",
+    "name": "תיירות ונופש"
+  },
+  {
+    "id": "sleep-textile",
+    "name": "שינה וטקסטיל"
+  },
+  {
+    "id": "travel-camping",
+    "name": "נסיעות ומחנאות"
+  },
+  {
+    "id": "optics",
+    "name": "אופטיקה"
+  },
+  {
+    "id": "attractions",
+    "name": "אטרקציות"
+  },
+  {
+    "id": "pets",
+    "name": "חיות מחמד"
+  },
+  {
+    "id": "education",
+    "name": "לימודים וספרים"
+  },
+  {
+    "id": "judaica",
+    "name": "יודאיקה"
+  },
+  {
+    "id": "other",
+    "name": "אחר"
+  }
 ]
