@@ -1,8 +1,10 @@
 """Parse a saved BuyMe All accepting-businesses page (BuyMe.html).
 
-Cards that were rendered into the saved file are imported. The page counter
-can be higher than the number of rendered cards because the rest never
-loaded into the HTML. There is no discount percentage on this page.
+Only cards rendered into the saved file are imported. The page counter
+can be higher because the rest never loaded into the HTML. A name that
+appears only inside a voucher image description, such as Billabong on the
+FOX GROUP dream card, is not its own business and is not imported. There
+is no discount percentage on this page.
 """
 
 from __future__ import annotations

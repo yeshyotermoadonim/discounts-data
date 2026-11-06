@@ -63,12 +63,19 @@ def clean_text(value: str) -> str:
     return re.sub(r"\s+", " ", text)
 
 
+# Same store written in English on one club page and Hebrew on another.
+NAME_ALIASES = {
+    "billabong": "בילבונג",
+}
+
+
 def normalize_name(name: str) -> str:
     text = clean_text(name).casefold()
     text = text.replace("׳", "").replace("'", "").replace("`", "").replace('"', "").replace("״", "")
     text = re.sub(r"\b(online|אונליין|אונלין)\b", " ", text)
     text = re.sub(r"^רשת\s+", "", text)
-    return re.sub(r"\s+", " ", text).strip()
+    text = re.sub(r"\s+", " ", text).strip()
+    return NAME_ALIASES.get(text, text)
 
 
 def slugify(name: str, normalized: str) -> str:

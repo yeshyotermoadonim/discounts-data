@@ -51,11 +51,12 @@ def prefer_name(current: str, incoming: str) -> str:
     return incoming if score(incoming) < score(current) else current
 
 
-def build(limit: int | None, dump: Path) -> dict:
+def build(limit: int | None, dump: Path, buyme: Path | None = None) -> dict:
     listings = []
     listings.extend(parse_behatsdaa(dump / "Beazdaa.html", limit))
     listings.extend(parse_hever(dump / "Hever.html", limit))
-    buyme_rows, advertised = parse_buyme(dump / "BuyMe.html", limit)
+    buyme_path = buyme or (dump / "BuyMe.html")
+    buyme_rows, advertised = parse_buyme(buyme_path, limit)
     listings.extend(buyme_rows)
 
     clubs = load_json(ROOT / "clubs.json")
@@ -136,10 +137,11 @@ def build(limit: int | None, dump: Path) -> dict:
 def main() -> None:
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("--dump", type=Path, default=DEFAULT_DUMP)
+    parser.add_argument("--buyme", type=Path, default=None, help="BuyMe.html, when it lives in a newer folder")
     parser.add_argument("--limit", type=int, default=None, help="Keep the first N rows per club")
     parser.add_argument("--dry-run", action="store_true")
     args = parser.parse_args()
-    data = build(args.limit, args.dump)
+    data = build(args.limit, args.dump, args.buyme)
     counts = {
         club["id"]: sum(1 for row in data["listings"] if row["clubId"] == club["id"])
         for club in data["clubs"]

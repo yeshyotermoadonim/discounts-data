@@ -4164,13 +4164,85 @@
     "url": "https://www.behatsdaa.org.il/card/shops/branches?walletId=2809&chainId=113"
   },
   {
+    "brandId": "2break",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
     "brandId": "4chef",
     "clubId": "buyme",
     "online": true,
     "url": "https://buyme.co.il/brands/13438757"
   },
   {
+    "brandId": "7even",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "7to1-lab",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "a-day-in-a-life",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "a23",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "abba-hotel",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "aberto",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "abraham-hostel",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "adam-hotels",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "adama",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
     "brandId": "adidas",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "adsea",
+    "clubId": "buyme",
+    "online": true,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "aerie",
     "clubId": "buyme",
     "online": false,
     "url": "https://buyme.co.il/brands/13438757"
@@ -4182,13 +4254,115 @@
     "url": "https://buyme.co.il/brands/13438757"
   },
   {
+    "brandId": "agenda",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "ahava",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
     "brandId": "aimee",
     "clubId": "buyme",
     "online": true,
     "url": "https://buyme.co.il/brands/13438757"
   },
   {
-    "brandId": "alaya-poleg",
+    "brandId": "airtlv",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "alali",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "albi-hotels",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "aldo",
+    "clubId": "buyme",
+    "online": true,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "alef-alef",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "allsaints",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "alltech",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "almar",
+    "clubId": "buyme",
+    "online": true,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "alonella",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "altra-online",
+    "clubId": "buyme",
+    "online": true,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "ama-lurra",
+    "clubId": "buyme",
+    "online": true,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "american-eagle",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "ananda-spa",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "anat-friedman",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "annabella",
+    "clubId": "buyme",
+    "online": true,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "antonyoni",
     "clubId": "buyme",
     "online": false,
     "url": "https://buyme.co.il/brands/13438757"
@@ -4200,13 +4374,37 @@
     "url": "https://buyme.co.il/brands/13438757"
   },
   {
-    "brandId": "arcaffe",
+    "brandId": "arcosteel-kitchen",
     "clubId": "buyme",
     "online": false,
     "url": "https://buyme.co.il/brands/13438757"
   },
   {
+    "brandId": "ardo",
+    "clubId": "buyme",
+    "online": true,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "art-time",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "arterra",
+    "clubId": "buyme",
+    "online": true,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
     "brandId": "asa-izakaya",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "asaf-tomer",
     "clubId": "buyme",
     "online": false,
     "url": "https://buyme.co.il/brands/13438757"
@@ -4218,13 +4416,37 @@
     "url": "https://buyme.co.il/brands/13438757"
   },
   {
-    "brandId": "ata",
+    "brandId": "assemblage-boutique-hotel",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "axe-and-co",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "ayuchka",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-00d7366b5b",
     "clubId": "buyme",
     "online": true,
     "url": "https://buyme.co.il/brands/13438757"
   },
   {
-    "brandId": "b-00d7366b5b",
+    "brandId": "b-010413cdc8",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-012a67b639",
     "clubId": "buyme",
     "online": true,
     "url": "https://buyme.co.il/brands/13438757"
@@ -4242,7 +4464,31 @@
     "url": "https://buyme.co.il/brands/13438757"
   },
   {
+    "brandId": "b-01c5a80922",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-028e98aa2d",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-03066ff128",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
     "brandId": "b-044c60ae15",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-0468302049",
     "clubId": "buyme",
     "online": false,
     "url": "https://buyme.co.il/brands/13438757"
@@ -4254,7 +4500,7 @@
     "url": "https://buyme.co.il/brands/13438757"
   },
   {
-    "brandId": "b-04b9a38385",
+    "brandId": "b-04c4ec90a9",
     "clubId": "buyme",
     "online": false,
     "url": "https://buyme.co.il/brands/13438757"
@@ -4272,7 +4518,37 @@
     "url": "https://buyme.co.il/brands/13438757"
   },
   {
+    "brandId": "b-062ac4dec2",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-06798e08ee",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-0771577201",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-07764ef15a",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
     "brandId": "b-07897f9773",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-0887964b25",
     "clubId": "buyme",
     "online": false,
     "url": "https://buyme.co.il/brands/13438757"
@@ -4296,6 +4572,12 @@
     "url": "https://buyme.co.il/brands/13438757"
   },
   {
+    "brandId": "b-09c454608e",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
     "brandId": "b-0a3c279a80",
     "clubId": "buyme",
     "online": false,
@@ -4308,7 +4590,43 @@
     "url": "https://buyme.co.il/brands/13438757"
   },
   {
+    "brandId": "b-0b05a7d4a6",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
     "brandId": "b-0c1e91d747",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-0cc2a42dfc",
+    "clubId": "buyme",
+    "online": true,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-0cc54570d1",
+    "clubId": "buyme",
+    "online": true,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-0d412238c3",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-0d7b3e4d06",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-0dbb620356",
     "clubId": "buyme",
     "online": false,
     "url": "https://buyme.co.il/brands/13438757"
@@ -4320,9 +4638,39 @@
     "url": "https://buyme.co.il/brands/13438757"
   },
   {
+    "brandId": "b-0f23721ff6",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-0f6b8993f9",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
     "brandId": "b-100e430d22",
     "clubId": "buyme",
     "online": true,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-1030ab41bc",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-104fa68567",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-10d2b7c961",
+    "clubId": "buyme",
+    "online": false,
     "url": "https://buyme.co.il/brands/13438757"
   },
   {
@@ -4338,6 +4686,30 @@
     "url": "https://buyme.co.il/brands/13438757"
   },
   {
+    "brandId": "b-127ca8bd3d",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-1296589f88",
+    "clubId": "buyme",
+    "online": true,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-12c465ef92",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-12da6b5c0c",
+    "clubId": "buyme",
+    "online": true,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
     "brandId": "b-131cd8641f",
     "clubId": "buyme",
     "online": false,
@@ -4350,13 +4722,43 @@
     "url": "https://buyme.co.il/brands/13438757"
   },
   {
-    "brandId": "b-13822d95d9",
+    "brandId": "b-13f827ab52",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-1410ff663d",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-148b41a6cb",
+    "clubId": "buyme",
+    "online": true,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-148fab8fe9",
     "clubId": "buyme",
     "online": false,
     "url": "https://buyme.co.il/brands/13438757"
   },
   {
     "brandId": "b-14b47c506a",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-14f3be9bdd",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-15a5183d0f",
     "clubId": "buyme",
     "online": false,
     "url": "https://buyme.co.il/brands/13438757"
@@ -4369,12 +4771,6 @@
   },
   {
     "brandId": "b-171c499ab2",
-    "clubId": "buyme",
-    "online": true,
-    "url": "https://buyme.co.il/brands/13438757"
-  },
-  {
-    "brandId": "b-17627714be",
     "clubId": "buyme",
     "online": true,
     "url": "https://buyme.co.il/brands/13438757"
@@ -4398,9 +4794,177 @@
     "url": "https://buyme.co.il/brands/13438757"
   },
   {
-    "brandId": "b-1e80b17385",
+    "brandId": "b-18a84d4ee2",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-18bf9a045c",
     "clubId": "buyme",
     "online": true,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-18d5468bb9",
+    "clubId": "buyme",
+    "online": true,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-1a518c155a",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-1ac2f1a339",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-1acc5bff75",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-1b93f1a06c",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-1c0b0f427a",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-1c1b6c20a9",
+    "clubId": "buyme",
+    "online": true,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-1c2dda4e65",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-1ca575db82",
+    "clubId": "buyme",
+    "online": true,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-1ca950a441",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-1f05eec95a",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-1f2eea4c1c",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-1f9ca5b3dd",
+    "clubId": "buyme",
+    "online": true,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-1fdc8a22ab",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-20375569b7",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-203d26637c",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-204a204f63",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-206356fdb7",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-217c3aa8c3",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-21bd57392c",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-2233f4d7e4",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-23230bdbdf",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-2373caaeb3",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-23a20bfa05",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-2456fdd104",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-249460c16a",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-26754e60ea",
+    "clubId": "buyme",
+    "online": false,
     "url": "https://buyme.co.il/brands/13438757"
   },
   {
@@ -4410,7 +4974,91 @@
     "url": "https://buyme.co.il/brands/13438757"
   },
   {
+    "brandId": "b-28beda3aeb",
+    "clubId": "buyme",
+    "online": true,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
     "brandId": "b-29662b2f77",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-2983c0adbe",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-29c9f74a31",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-29ec7063e3",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-2bd32547dd",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-2bee150779",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-2c96931778",
+    "clubId": "buyme",
+    "online": true,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-2cb3d7cae0",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-2e359b1224",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-2ea41be49d",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-2f4399c138",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-2f6fca97d5",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-2f7667d194",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-2f790bfacf",
     "clubId": "buyme",
     "online": false,
     "url": "https://buyme.co.il/brands/13438757"
@@ -4422,7 +5070,37 @@
     "url": "https://buyme.co.il/brands/13438757"
   },
   {
-    "brandId": "b-305cff9337",
+    "brandId": "b-2fc03a94fd",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-301448e163",
+    "clubId": "buyme",
+    "online": true,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-30349af96b",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-307bb8b695",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-3088e6464a",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-308ac319dc",
     "clubId": "buyme",
     "online": true,
     "url": "https://buyme.co.il/brands/13438757"
@@ -4434,9 +5112,75 @@
     "url": "https://buyme.co.il/brands/13438757"
   },
   {
+    "brandId": "b-311b4c86d7",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-32808158b8",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
     "brandId": "b-329061bc21",
     "clubId": "buyme",
     "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-32c71b171c",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-33295285d9",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-336f85f151",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-339eb4f654",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-33cb3c3d90",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-34c7c29336",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-34d2a00632",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-3504f894e2",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-359622020d",
+    "clubId": "buyme",
+    "online": true,
     "url": "https://buyme.co.il/brands/13438757"
   },
   {
@@ -4446,7 +5190,37 @@
     "url": "https://buyme.co.il/brands/13438757"
   },
   {
+    "brandId": "b-362ba99750",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-371838d67e",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
     "brandId": "b-3778cec78b",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-37c410db66",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-385a7e8370",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-38f545f1dc",
     "clubId": "buyme",
     "online": false,
     "url": "https://buyme.co.il/brands/13438757"
@@ -4464,13 +5238,73 @@
     "url": "https://buyme.co.il/brands/13438757"
   },
   {
+    "brandId": "b-392eb58b3c",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-39401fb5e4",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-39bf159695",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-3a31a573a7",
+    "clubId": "buyme",
+    "online": true,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
     "brandId": "b-3ab58ff23d",
     "clubId": "buyme",
     "online": true,
     "url": "https://buyme.co.il/brands/13438757"
   },
   {
+    "brandId": "b-3ad4952f49",
+    "clubId": "buyme",
+    "online": true,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-3b4c5992f2",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
     "brandId": "b-3b94f90aff",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-3ce4352bb7",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-3d7ce2aef4",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-3db3953f66",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-3db6c81d2d",
     "clubId": "buyme",
     "online": false,
     "url": "https://buyme.co.il/brands/13438757"
@@ -4482,7 +5316,37 @@
     "url": "https://buyme.co.il/brands/13438757"
   },
   {
+    "brandId": "b-3e62248c63",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-3ec373f7e3",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
     "brandId": "b-3f021e32d3",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-3f03e14ffc",
+    "clubId": "buyme",
+    "online": true,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-3fa7fdea9e",
+    "clubId": "buyme",
+    "online": true,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-40d7064212",
     "clubId": "buyme",
     "online": false,
     "url": "https://buyme.co.il/brands/13438757"
@@ -4506,13 +5370,37 @@
     "url": "https://buyme.co.il/brands/13438757"
   },
   {
+    "brandId": "b-443e725962",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
     "brandId": "b-44767a9bc5",
     "clubId": "buyme",
     "online": false,
     "url": "https://buyme.co.il/brands/13438757"
   },
   {
+    "brandId": "b-44d5b7e722",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-44e62cb1d5",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
     "brandId": "b-45bb11eac3",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-45cc36cd0b",
     "clubId": "buyme",
     "online": false,
     "url": "https://buyme.co.il/brands/13438757"
@@ -4536,15 +5424,117 @@
     "url": "https://buyme.co.il/brands/13438757"
   },
   {
+    "brandId": "b-46f554a9c0",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-478d92ba7b",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-47abb8494e",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-48070697d0",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-48a667f0ef",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-49243c0c3e",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-4932cfb3ae",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-4a1df108a2",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-4a2013162d",
+    "clubId": "buyme",
+    "online": true,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-4a27640418",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-4a88cd84b7",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-4a89ad02aa",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-4ad4f06063",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-4af79fea7b",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-4b00bd329f",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
     "brandId": "b-4b54794f67",
     "clubId": "buyme",
     "online": false,
     "url": "https://buyme.co.il/brands/13438757"
   },
   {
-    "brandId": "b-4cd6fbf536",
+    "brandId": "b-4bbd32ddb9",
     "clubId": "buyme",
-    "online": true,
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-4cd4fa6d8c",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-4d4ac5d419",
+    "clubId": "buyme",
+    "online": false,
     "url": "https://buyme.co.il/brands/13438757"
   },
   {
@@ -4554,7 +5544,31 @@
     "url": "https://buyme.co.il/brands/13438757"
   },
   {
+    "brandId": "b-4dc77829a6",
+    "clubId": "buyme",
+    "online": true,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-4e2eb70100",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-4eb4b09199",
+    "clubId": "buyme",
+    "online": true,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
     "brandId": "b-4f129cdf1d",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-4f8264e42d",
     "clubId": "buyme",
     "online": false,
     "url": "https://buyme.co.il/brands/13438757"
@@ -4563,6 +5577,54 @@
     "brandId": "b-4fb562558a",
     "clubId": "buyme",
     "online": true,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-4fc4af7198",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-500371c735",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-5055e0bc18",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-514bb5c81e",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-5154a183b4",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-516defe460",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-51a8412a6e",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-51b6fe488c",
+    "clubId": "buyme",
+    "online": false,
     "url": "https://buyme.co.il/brands/13438757"
   },
   {
@@ -4584,13 +5646,31 @@
     "url": "https://buyme.co.il/brands/13438757"
   },
   {
+    "brandId": "b-54300d96f2",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
     "brandId": "b-54318acdc5",
     "clubId": "buyme",
     "online": false,
     "url": "https://buyme.co.il/brands/13438757"
   },
   {
-    "brandId": "b-5481486ec5",
+    "brandId": "b-54842d1f23",
+    "clubId": "buyme",
+    "online": true,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-549529524c",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-56e1ddde9e",
     "clubId": "buyme",
     "online": false,
     "url": "https://buyme.co.il/brands/13438757"
@@ -4608,9 +5688,39 @@
     "url": "https://buyme.co.il/brands/13438757"
   },
   {
+    "brandId": "b-577e3ad6ec",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-579ef139d2",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
     "brandId": "b-57e215a7e2",
     "clubId": "buyme",
     "online": true,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-5882a4cab0",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-58f2023c49",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-598228da73",
+    "clubId": "buyme",
+    "online": false,
     "url": "https://buyme.co.il/brands/13438757"
   },
   {
@@ -4620,9 +5730,21 @@
     "url": "https://buyme.co.il/brands/13438757"
   },
   {
+    "brandId": "b-5ad7a612e3",
+    "clubId": "buyme",
+    "online": true,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
     "brandId": "b-5b8ec3a4d3",
     "clubId": "buyme",
     "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-5c0adbc401",
+    "clubId": "buyme",
+    "online": true,
     "url": "https://buyme.co.il/brands/13438757"
   },
   {
@@ -4632,13 +5754,67 @@
     "url": "https://buyme.co.il/brands/13438757"
   },
   {
+    "brandId": "b-5c9eafed62",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
     "brandId": "b-5ce4af24c8",
     "clubId": "buyme",
     "online": true,
     "url": "https://buyme.co.il/brands/13438757"
   },
   {
+    "brandId": "b-5de4f26f58",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-5e5d3887f0",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-5ef4a08326",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
     "brandId": "b-5f817da9d2",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-60625b7ad5",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-6110111e8b",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-628ad8a31a",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-646ac9f245",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-657ac330ee",
     "clubId": "buyme",
     "online": false,
     "url": "https://buyme.co.il/brands/13438757"
@@ -4650,7 +5826,19 @@
     "url": "https://buyme.co.il/brands/13438757"
   },
   {
+    "brandId": "b-66741d1a96",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
     "brandId": "b-6707696384",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-684306864c",
     "clubId": "buyme",
     "online": false,
     "url": "https://buyme.co.il/brands/13438757"
@@ -4674,9 +5862,63 @@
     "url": "https://buyme.co.il/brands/13438757"
   },
   {
+    "brandId": "b-695d0ac892",
+    "clubId": "buyme",
+    "online": true,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-6a0b3b1195",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-6b1029b30d",
+    "clubId": "buyme",
+    "online": true,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
     "brandId": "b-6be8b38209",
     "clubId": "buyme",
     "online": true,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-6ca5ce6406",
+    "clubId": "buyme",
+    "online": true,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-6cb70926b1",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-6ced6710c8",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-6ddd300396",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-6f0fed69ae",
+    "clubId": "buyme",
+    "online": true,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-702583ebb2",
+    "clubId": "buyme",
+    "online": false,
     "url": "https://buyme.co.il/brands/13438757"
   },
   {
@@ -4686,7 +5928,7 @@
     "url": "https://buyme.co.il/brands/13438757"
   },
   {
-    "brandId": "b-7198421177",
+    "brandId": "b-71e299edb9",
     "clubId": "buyme",
     "online": false,
     "url": "https://buyme.co.il/brands/13438757"
@@ -4698,7 +5940,13 @@
     "url": "https://buyme.co.il/brands/13438757"
   },
   {
-    "brandId": "b-72fad23df4",
+    "brandId": "b-741c574c1a",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-741e550862",
     "clubId": "buyme",
     "online": false,
     "url": "https://buyme.co.il/brands/13438757"
@@ -4710,7 +5958,49 @@
     "url": "https://buyme.co.il/brands/13438757"
   },
   {
+    "brandId": "b-75f1a8a538",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-7717edb974",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-7766293b4a",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-782e8437d1",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
     "brandId": "b-783ce24d14",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-785534a217",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-78615d0a33",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-78f4487a52",
     "clubId": "buyme",
     "online": false,
     "url": "https://buyme.co.il/brands/13438757"
@@ -4722,7 +6012,19 @@
     "url": "https://buyme.co.il/brands/13438757"
   },
   {
+    "brandId": "b-7aa3574964",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
     "brandId": "b-7c2a6863a3",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-7cfb2adb86",
     "clubId": "buyme",
     "online": false,
     "url": "https://buyme.co.il/brands/13438757"
@@ -4731,6 +6033,30 @@
     "brandId": "b-7e3ca5442b",
     "clubId": "buyme",
     "online": true,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-7ec081c82a",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-7f3527743c",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-805815f603",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-80f3b9c931",
+    "clubId": "buyme",
+    "online": false,
     "url": "https://buyme.co.il/brands/13438757"
   },
   {
@@ -4752,7 +6078,49 @@
     "url": "https://buyme.co.il/brands/13438757"
   },
   {
+    "brandId": "b-822087f12d",
+    "clubId": "buyme",
+    "online": true,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
     "brandId": "b-82861f677e",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-82ac646c48",
+    "clubId": "buyme",
+    "online": true,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-82d8135c63",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-82fb004b9e",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-833d16047b",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-83a01aa287",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-84847c8795",
     "clubId": "buyme",
     "online": false,
     "url": "https://buyme.co.il/brands/13438757"
@@ -4770,7 +6138,37 @@
     "url": "https://buyme.co.il/brands/13438757"
   },
   {
+    "brandId": "b-866dfa4362",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
     "brandId": "b-8678a234d0",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-86983574f5",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-86ccb24835",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-871cde837d",
+    "clubId": "buyme",
+    "online": true,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-879cd491da",
     "clubId": "buyme",
     "online": false,
     "url": "https://buyme.co.il/brands/13438757"
@@ -4782,7 +6180,73 @@
     "url": "https://buyme.co.il/brands/13438757"
   },
   {
+    "brandId": "b-87d2470a03",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-87ed3be875",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-8815002123",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
     "brandId": "b-883ab1ce69",
+    "clubId": "buyme",
+    "online": true,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-8848b9fb0d",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-88f93bb60f",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-89094c7379",
+    "clubId": "buyme",
+    "online": true,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-891d7d1dbe",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-89656c480c",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-897fd0e7c0",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-8a2608d785",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-8b24835e91",
     "clubId": "buyme",
     "online": true,
     "url": "https://buyme.co.il/brands/13438757"
@@ -4794,7 +6258,37 @@
     "url": "https://buyme.co.il/brands/13438757"
   },
   {
-    "brandId": "b-8c95d0d1b1",
+    "brandId": "b-8b96be1eda",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-8be0617b0f",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-8cac4370e1",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-8cd15cb3ea",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-8d2f527fe1",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-8daf1929b1",
     "clubId": "buyme",
     "online": false,
     "url": "https://buyme.co.il/brands/13438757"
@@ -4806,13 +6300,37 @@
     "url": "https://buyme.co.il/brands/13438757"
   },
   {
+    "brandId": "b-8ff5654ea0",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
     "brandId": "b-90334e0437",
     "clubId": "buyme",
     "online": false,
     "url": "https://buyme.co.il/brands/13438757"
   },
   {
+    "brandId": "b-9050b2e976",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
     "brandId": "b-90570c9a46",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-905ce778c3",
+    "clubId": "buyme",
+    "online": true,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-90a47b44eb",
     "clubId": "buyme",
     "online": false,
     "url": "https://buyme.co.il/brands/13438757"
@@ -4836,19 +6354,85 @@
     "url": "https://buyme.co.il/brands/13438757"
   },
   {
+    "brandId": "b-91d114d754",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-91fb986259",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-929a5f37c8",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-92dc40d227",
+    "clubId": "buyme",
+    "online": true,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
     "brandId": "b-92e30d394a",
     "clubId": "buyme",
     "online": false,
     "url": "https://buyme.co.il/brands/13438757"
   },
   {
-    "brandId": "b-930339acd3",
+    "brandId": "b-92f33b00e0",
     "clubId": "buyme",
     "online": false,
     "url": "https://buyme.co.il/brands/13438757"
   },
   {
+    "brandId": "b-93028f8013",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-93627aa742",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-936991f7de",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-9373e0a41b",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-9385bb6c9c",
+    "clubId": "buyme",
+    "online": true,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
     "brandId": "b-93a657e6e3",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-94361591a4",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-945c046949",
     "clubId": "buyme",
     "online": false,
     "url": "https://buyme.co.il/brands/13438757"
@@ -4866,9 +6450,15 @@
     "url": "https://buyme.co.il/brands/13438757"
   },
   {
-    "brandId": "b-95547d293f",
+    "brandId": "b-953dd32f4f",
     "clubId": "buyme",
-    "online": false,
+    "online": true,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-95c8067827",
+    "clubId": "buyme",
+    "online": true,
     "url": "https://buyme.co.il/brands/13438757"
   },
   {
@@ -4878,13 +6468,79 @@
     "url": "https://buyme.co.il/brands/13438757"
   },
   {
+    "brandId": "b-961e367a18",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-962c0ee6ad",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-96490018a1",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-9655694128",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
     "brandId": "b-96aa5a18cc",
     "clubId": "buyme",
     "online": false,
     "url": "https://buyme.co.il/brands/13438757"
   },
   {
-    "brandId": "b-9ae07ba6a3",
+    "brandId": "b-978b163ccb",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-9829213a6c",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-98325616c6",
+    "clubId": "buyme",
+    "online": true,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-98ffbfc5e3",
+    "clubId": "buyme",
+    "online": true,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-990cb501f3",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-99c63a6d55",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-9a396b9372",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-9ab1941bc2",
     "clubId": "buyme",
     "online": false,
     "url": "https://buyme.co.il/brands/13438757"
@@ -4896,13 +6552,31 @@
     "url": "https://buyme.co.il/brands/13438757"
   },
   {
-    "brandId": "b-9c7e6c2b3b",
+    "brandId": "b-9b543d2a65",
     "clubId": "buyme",
     "online": false,
     "url": "https://buyme.co.il/brands/13438757"
   },
   {
-    "brandId": "b-9c8a4761d8",
+    "brandId": "b-9b7f35331d",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-9c0ca48243",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-9c2f930615",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-9c7e6c2b3b",
     "clubId": "buyme",
     "online": false,
     "url": "https://buyme.co.il/brands/13438757"
@@ -4920,6 +6594,18 @@
     "url": "https://buyme.co.il/brands/13438757"
   },
   {
+    "brandId": "b-9d20143420",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-9d8fe89f5d",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
     "brandId": "b-9e632adee6",
     "clubId": "buyme",
     "online": true,
@@ -4932,9 +6618,27 @@
     "url": "https://buyme.co.il/brands/13438757"
   },
   {
+    "brandId": "b-9f1c624b35",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-9f537f3c7d",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
     "brandId": "b-9f6133313f",
     "clubId": "buyme",
     "online": true,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-9f7b0aa454",
+    "clubId": "buyme",
+    "online": false,
     "url": "https://buyme.co.il/brands/13438757"
   },
   {
@@ -4944,7 +6648,25 @@
     "url": "https://buyme.co.il/brands/13438757"
   },
   {
+    "brandId": "b-a0d2992c18",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
     "brandId": "b-a0d423b7e4",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-a0ec0d5d58",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-a0f96a531a",
     "clubId": "buyme",
     "online": false,
     "url": "https://buyme.co.il/brands/13438757"
@@ -4962,6 +6684,96 @@
     "url": "https://buyme.co.il/brands/13438757"
   },
   {
+    "brandId": "b-a25f233f56",
+    "clubId": "buyme",
+    "online": true,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-a2bf743ada",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-a2cf4aae46",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-a30f8b1091",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-a367b521f0",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-a3ede37887",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-a41c253fd9",
+    "clubId": "buyme",
+    "online": true,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-a42cfffce7",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-a47a394b0e",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-a541bd6835",
+    "clubId": "buyme",
+    "online": true,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-a579b4739c",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-a6616e929b",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-a70faf9ec5",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-a861c672ec",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-a882c34d83",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
     "brandId": "b-a8b44bd28b",
     "clubId": "buyme",
     "online": false,
@@ -4974,7 +6786,67 @@
     "url": "https://buyme.co.il/brands/13438757"
   },
   {
+    "brandId": "b-a999c70c59",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-aac411104d",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-ab34d816f6",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-ab71fde40c",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-ab99e37be6",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-abaa5b4cbd",
+    "clubId": "buyme",
+    "online": true,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-abda5a1410",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-ad7c6e0b65",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
     "brandId": "b-ae9e58f3de",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-aea5558a15",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-aea99c427c",
     "clubId": "buyme",
     "online": false,
     "url": "https://buyme.co.il/brands/13438757"
@@ -4992,9 +6864,21 @@
     "url": "https://buyme.co.il/brands/13438757"
   },
   {
-    "brandId": "b-b080df68c4",
+    "brandId": "b-b06cc82f72",
     "clubId": "buyme",
-    "online": true,
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-b0f91c6fa3",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-b1af13540e",
+    "clubId": "buyme",
+    "online": false,
     "url": "https://buyme.co.il/brands/13438757"
   },
   {
@@ -5004,13 +6888,19 @@
     "url": "https://buyme.co.il/brands/13438757"
   },
   {
-    "brandId": "b-b21c47c309",
+    "brandId": "b-b1ced3671f",
     "clubId": "buyme",
     "online": false,
     "url": "https://buyme.co.il/brands/13438757"
   },
   {
-    "brandId": "b-b236d2d722",
+    "brandId": "b-b1f1b898cc",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-b21c47c309",
     "clubId": "buyme",
     "online": false,
     "url": "https://buyme.co.il/brands/13438757"
@@ -5028,7 +6918,37 @@
     "url": "https://buyme.co.il/brands/13438757"
   },
   {
+    "brandId": "b-b3eed8d389",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-b3ff033b11",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-b47478e0f8",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
     "brandId": "b-b4c1fbc46e",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-b4d02ec645",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-b4fb257de4",
     "clubId": "buyme",
     "online": false,
     "url": "https://buyme.co.il/brands/13438757"
@@ -5046,9 +6966,45 @@
     "url": "https://buyme.co.il/brands/13438757"
   },
   {
+    "brandId": "b-b5a409b1a0",
+    "clubId": "buyme",
+    "online": true,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-b6ac3e3a05",
+    "clubId": "buyme",
+    "online": true,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-b6c0c5cfb7",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-b7a2590dee",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
     "brandId": "b-b95c1a7de9",
     "clubId": "buyme",
     "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-b995a23215",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-bab74997df",
+    "clubId": "buyme",
+    "online": true,
     "url": "https://buyme.co.il/brands/13438757"
   },
   {
@@ -5058,7 +7014,37 @@
     "url": "https://buyme.co.il/brands/13438757"
   },
   {
+    "brandId": "b-bbdac0a18e",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-bbfea48a88",
+    "clubId": "buyme",
+    "online": true,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-bc6ad5099c",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-bc80179e20",
+    "clubId": "buyme",
+    "online": true,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
     "brandId": "b-bc9e312b4d",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-bcb67133cd",
     "clubId": "buyme",
     "online": false,
     "url": "https://buyme.co.il/brands/13438757"
@@ -5076,9 +7062,51 @@
     "url": "https://buyme.co.il/brands/13438757"
   },
   {
+    "brandId": "b-beccdb2de9",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-bedbfafd14",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-bef7c8f388",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-bf983a3f24",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
     "brandId": "b-bf9b41bafa",
     "clubId": "buyme",
     "online": true,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-bfcf509e9f",
+    "clubId": "buyme",
+    "online": true,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-c07cba44fc",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-c1f2f9d6bd",
+    "clubId": "buyme",
+    "online": false,
     "url": "https://buyme.co.il/brands/13438757"
   },
   {
@@ -5094,9 +7122,21 @@
     "url": "https://buyme.co.il/brands/13438757"
   },
   {
+    "brandId": "b-c2ce7ae83e",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
     "brandId": "b-c33507dcf2",
     "clubId": "buyme",
     "online": true,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-c361871e4a",
+    "clubId": "buyme",
+    "online": false,
     "url": "https://buyme.co.il/brands/13438757"
   },
   {
@@ -5106,7 +7146,31 @@
     "url": "https://buyme.co.il/brands/13438757"
   },
   {
+    "brandId": "b-c3beaa59d5",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-c40380bb66",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-c412186816",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
     "brandId": "b-c4b61bdb3c",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-c50a5786d0",
     "clubId": "buyme",
     "online": false,
     "url": "https://buyme.co.il/brands/13438757"
@@ -5118,7 +7182,49 @@
     "url": "https://buyme.co.il/brands/13438757"
   },
   {
-    "brandId": "b-c983976ad5",
+    "brandId": "b-c5ce74e28d",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-c6a31b241a",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-c750c3157d",
+    "clubId": "buyme",
+    "online": true,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-c78d8a7d97",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-c7f9d64910",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-c91e778c3b",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-c922f1767c",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-c9854c8cd6",
     "clubId": "buyme",
     "online": true,
     "url": "https://buyme.co.il/brands/13438757"
@@ -5136,6 +7242,18 @@
     "url": "https://buyme.co.il/brands/13438757"
   },
   {
+    "brandId": "b-caea925c7c",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-cb0805c4a5",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
     "brandId": "b-cb30058fe6",
     "clubId": "buyme",
     "online": false,
@@ -5148,7 +7266,49 @@
     "url": "https://buyme.co.il/brands/13438757"
   },
   {
-    "brandId": "b-cdb82dab82",
+    "brandId": "b-cc411abdb4",
+    "clubId": "buyme",
+    "online": true,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-ccf26a3a54",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-cd4e297485",
+    "clubId": "buyme",
+    "online": true,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-cdb6dc51f9",
+    "clubId": "buyme",
+    "online": true,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-cde65105c8",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-cdf5fd2a35",
+    "clubId": "buyme",
+    "online": true,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-ce2fa2b9d5",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-cee34c3e1a",
     "clubId": "buyme",
     "online": true,
     "url": "https://buyme.co.il/brands/13438757"
@@ -5160,13 +7320,37 @@
     "url": "https://buyme.co.il/brands/13438757"
   },
   {
+    "brandId": "b-cffb291b9d",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-d0078738fa",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
     "brandId": "b-d068cbe8ed",
     "clubId": "buyme",
     "online": true,
     "url": "https://buyme.co.il/brands/13438757"
   },
   {
-    "brandId": "b-d24a004aff",
+    "brandId": "b-d135e3c2fa",
+    "clubId": "buyme",
+    "online": true,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-d1614f52d6",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-d24694fe11",
     "clubId": "buyme",
     "online": false,
     "url": "https://buyme.co.il/brands/13438757"
@@ -5181,6 +7365,30 @@
     "brandId": "b-d32f388022",
     "clubId": "buyme",
     "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-d399f59e8e",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-d3e1735f0c",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-d3ffaa1d4e",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-d41010b79e",
+    "clubId": "buyme",
+    "online": true,
     "url": "https://buyme.co.il/brands/13438757"
   },
   {
@@ -5202,13 +7410,85 @@
     "url": "https://buyme.co.il/brands/13438757"
   },
   {
+    "brandId": "b-d5cf98169a",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-d6664c9790",
+    "clubId": "buyme",
+    "online": true,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-d6f32cf3cc",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
     "brandId": "b-d74fc50b89",
     "clubId": "buyme",
     "online": false,
     "url": "https://buyme.co.il/brands/13438757"
   },
   {
-    "brandId": "b-da376f86aa",
+    "brandId": "b-d7788afca9",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-d781ba67a3",
+    "clubId": "buyme",
+    "online": true,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-d7fa76ef5d",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-d8020f06ef",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-d850c5da54",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-d8809959b1",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-dab98ad80a",
+    "clubId": "buyme",
+    "online": true,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-dbf5eaa6e8",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-dc1ad4f636",
+    "clubId": "buyme",
+    "online": true,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-dcffbff8e6",
     "clubId": "buyme",
     "online": false,
     "url": "https://buyme.co.il/brands/13438757"
@@ -5220,7 +7500,31 @@
     "url": "https://buyme.co.il/brands/13438757"
   },
   {
+    "brandId": "b-ddc3f27933",
+    "clubId": "buyme",
+    "online": true,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
     "brandId": "b-dde73a0b6e",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-deb16bd826",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-deb3338b81",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-dfcda9811a",
     "clubId": "buyme",
     "online": false,
     "url": "https://buyme.co.il/brands/13438757"
@@ -5232,7 +7536,49 @@
     "url": "https://buyme.co.il/brands/13438757"
   },
   {
+    "brandId": "b-e02c49fdbd",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-e0fa5607b2",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
     "brandId": "b-e22a42cc36",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-e27906d51d",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-e29db78279",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-e32b24ea45",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-e3484ebe38",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-e35b0e602f",
     "clubId": "buyme",
     "online": false,
     "url": "https://buyme.co.il/brands/13438757"
@@ -5244,9 +7590,33 @@
     "url": "https://buyme.co.il/brands/13438757"
   },
   {
+    "brandId": "b-e40cda9000",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-e4a32648ea",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-e4f305bed1",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
     "brandId": "b-e5846fe9ad",
     "clubId": "buyme",
     "online": true,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-e5b3b8e9dd",
+    "clubId": "buyme",
+    "online": false,
     "url": "https://buyme.co.il/brands/13438757"
   },
   {
@@ -5256,7 +7626,25 @@
     "url": "https://buyme.co.il/brands/13438757"
   },
   {
+    "brandId": "b-e6c41435f6",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
     "brandId": "b-e75efb9215",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-e7c65f764f",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-e8016280ca",
     "clubId": "buyme",
     "online": false,
     "url": "https://buyme.co.il/brands/13438757"
@@ -5286,9 +7674,21 @@
     "url": "https://buyme.co.il/brands/13438757"
   },
   {
+    "brandId": "b-e8dac9c5ff",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
     "brandId": "b-e914464720",
     "clubId": "buyme",
     "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-ea36180b92",
+    "clubId": "buyme",
+    "online": true,
     "url": "https://buyme.co.il/brands/13438757"
   },
   {
@@ -5304,7 +7704,37 @@
     "url": "https://buyme.co.il/brands/13438757"
   },
   {
+    "brandId": "b-eb24cbd783",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-eb44dbfa7b",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-eb6eb46b68",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
     "brandId": "b-ebc74a0ec9",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-ec053925e3",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-ec310be8ac",
     "clubId": "buyme",
     "online": false,
     "url": "https://buyme.co.il/brands/13438757"
@@ -5316,13 +7746,67 @@
     "url": "https://buyme.co.il/brands/13438757"
   },
   {
+    "brandId": "b-ed5b5d613e",
+    "clubId": "buyme",
+    "online": true,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
     "brandId": "b-eda8e26aa2",
     "clubId": "buyme",
     "online": true,
     "url": "https://buyme.co.il/brands/13438757"
   },
   {
+    "brandId": "b-ee36da2163",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
     "brandId": "b-ee47bc9cdb",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-ee5995c7bb",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-eeed20179f",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-f16e8dda66",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-f194c82fd0",
+    "clubId": "buyme",
+    "online": true,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-f1f9aa5725",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-f1fe459a6e",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-f227c24a71",
     "clubId": "buyme",
     "online": false,
     "url": "https://buyme.co.il/brands/13438757"
@@ -5334,13 +7818,49 @@
     "url": "https://buyme.co.il/brands/13438757"
   },
   {
-    "brandId": "b-f276a03ea6",
+    "brandId": "b-f2cb200ea5",
     "clubId": "buyme",
     "online": false,
     "url": "https://buyme.co.il/brands/13438757"
   },
   {
+    "brandId": "b-f2f21b8211",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-f3a0b715dd",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-f3ea9148dc",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-f3fb452fa7",
+    "clubId": "buyme",
+    "online": true,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
     "brandId": "b-f518f8aa76",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-f530793266",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-f5f21ad7f6",
     "clubId": "buyme",
     "online": false,
     "url": "https://buyme.co.il/brands/13438757"
@@ -5352,19 +7872,61 @@
     "url": "https://buyme.co.il/brands/13438757"
   },
   {
+    "brandId": "b-f61cc8d4c3",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-f63acb965e",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-f64ac24e32",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-f66b1ccf45",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
     "brandId": "b-f68bf254b5",
     "clubId": "buyme",
     "online": false,
     "url": "https://buyme.co.il/brands/13438757"
   },
   {
-    "brandId": "b-f6a5aa78a6",
+    "brandId": "b-f690ed44cd",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-f6cdeb514d",
     "clubId": "buyme",
     "online": false,
     "url": "https://buyme.co.il/brands/13438757"
   },
   {
     "brandId": "b-f6f7d91bc7",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-f7219dc78e",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-f79506a65d",
     "clubId": "buyme",
     "online": false,
     "url": "https://buyme.co.il/brands/13438757"
@@ -5382,7 +7944,7 @@
     "url": "https://buyme.co.il/brands/13438757"
   },
   {
-    "brandId": "b-fa34feb081",
+    "brandId": "b-f9dbb406b5",
     "clubId": "buyme",
     "online": false,
     "url": "https://buyme.co.il/brands/13438757"
@@ -5394,7 +7956,37 @@
     "url": "https://buyme.co.il/brands/13438757"
   },
   {
+    "brandId": "b-fb1574651e",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-fb259a340b",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-fb8cbf08f1",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-fc2ded42f7",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
     "brandId": "b-fc5b405f55",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-fc784ab14d",
     "clubId": "buyme",
     "online": false,
     "url": "https://buyme.co.il/brands/13438757"
@@ -5406,6 +7998,18 @@
     "url": "https://buyme.co.il/brands/13438757"
   },
   {
+    "brandId": "b-fcf25e90d1",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-fcf96804d6",
+    "clubId": "buyme",
+    "online": true,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
     "brandId": "b-fd06ddfc78",
     "clubId": "buyme",
     "online": false,
@@ -5413,6 +8017,30 @@
   },
   {
     "brandId": "b-fd1c3114ed",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-fd4bc0c2c7",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-fd655187f4",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-fd742e983f",
+    "clubId": "buyme",
+    "online": true,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-fe4d208f31",
     "clubId": "buyme",
     "online": false,
     "url": "https://buyme.co.il/brands/13438757"
@@ -5430,13 +8058,37 @@
     "url": "https://buyme.co.il/brands/13438757"
   },
   {
+    "brandId": "b-fe97ad2c8d",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "b-ffd1d23f17",
+    "clubId": "buyme",
+    "online": true,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
     "brandId": "baby-brezza",
     "clubId": "buyme",
     "online": true,
     "url": "https://buyme.co.il/brands/13438757"
   },
   {
+    "brandId": "baby-mit-mit",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
     "brandId": "baby-story",
+    "clubId": "buyme",
+    "online": true,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "babybjorn",
     "clubId": "buyme",
     "online": true,
     "url": "https://buyme.co.il/brands/13438757"
@@ -5448,9 +8100,81 @@
     "url": "https://buyme.co.il/brands/13438757"
   },
   {
+    "brandId": "balaguna",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "ballerima",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "barbiz",
+    "clubId": "buyme",
+    "online": true,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "barcom",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "bayton",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "bbhugme",
+    "clubId": "buyme",
+    "online": true,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "be-tel-aviv-tours-2",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "beer-garden",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "beerbazaar",
+    "clubId": "buyme",
+    "online": true,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "belago",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
     "brandId": "biamba",
     "clubId": "buyme",
     "online": true,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "biliblond",
+    "clubId": "buyme",
+    "online": true,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "bimba-y-lola",
+    "clubId": "buyme",
+    "online": false,
     "url": "https://buyme.co.il/brands/13438757"
   },
   {
@@ -5460,13 +8184,31 @@
     "url": "https://buyme.co.il/brands/13438757"
   },
   {
-    "brandId": "blueberry",
+    "brandId": "biscotti",
     "clubId": "buyme",
-    "online": true,
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "boardriders",
+    "clubId": "buyme",
+    "online": false,
     "url": "https://buyme.co.il/brands/13438757"
   },
   {
     "brandId": "bobbi-brown",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "body-and-soul",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "bodymotion",
     "clubId": "buyme",
     "online": false,
     "url": "https://buyme.co.il/brands/13438757"
@@ -5478,13 +8220,85 @@
     "url": "https://buyme.co.il/brands/13438757"
   },
   {
+    "brandId": "bonic",
+    "clubId": "buyme",
+    "online": true,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "boolcactus",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "boosa-co-2",
+    "clubId": "buyme",
+    "online": true,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "box-and-bellz",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "brainit",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "brant",
+    "clubId": "buyme",
+    "online": true,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "brasseri-18",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
     "brandId": "bretonne",
     "clubId": "buyme",
     "online": false,
     "url": "https://buyme.co.il/brands/13438757"
   },
   {
+    "brandId": "brownie",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "bugaboo",
+    "clubId": "buyme",
+    "online": true,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "bumpers-online",
+    "clubId": "buyme",
+    "online": true,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "buona-casa",
+    "clubId": "buyme",
+    "online": true,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
     "brandId": "burger-box",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "burger-king",
     "clubId": "buyme",
     "online": false,
     "url": "https://buyme.co.il/brands/13438757"
@@ -5502,9 +8316,99 @@
     "url": "https://buyme.co.il/brands/13438757"
   },
   {
-    "brandId": "byneta-online",
+    "brandId": "by14",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "byangler",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "bymemmis",
     "clubId": "buyme",
     "online": true,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "c-baby-group",
+    "clubId": "buyme",
+    "online": true,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "cadabra",
+    "clubId": "buyme",
+    "online": true,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "cafe-mayer",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "cafe-popular",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "cafe-taizu",
+    "clubId": "buyme",
+    "online": true,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "callisto-art",
+    "clubId": "buyme",
+    "online": true,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "calzedonia",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "camel-mountain",
+    "clubId": "buyme",
+    "online": true,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "camp-david",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "candid",
+    "clubId": "buyme",
+    "online": true,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "candle-club",
+    "clubId": "buyme",
+    "online": true,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "capri",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "carlton-tel-aviv",
+    "clubId": "buyme",
+    "online": false,
     "url": "https://buyme.co.il/brands/13438757"
   },
   {
@@ -5514,13 +8418,19 @@
     "url": "https://buyme.co.il/brands/13438757"
   },
   {
+    "brandId": "carter-s-oshkosh",
+    "clubId": "buyme",
+    "online": true,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
     "brandId": "casa-bella",
     "clubId": "buyme",
     "online": true,
     "url": "https://buyme.co.il/brands/13438757"
   },
   {
-    "brandId": "casa-suzanna",
+    "brandId": "casa-do-brasil",
     "clubId": "buyme",
     "online": false,
     "url": "https://buyme.co.il/brands/13438757"
@@ -5532,25 +8442,49 @@
     "url": "https://buyme.co.il/brands/13438757"
   },
   {
-    "brandId": "ceramora",
+    "brandId": "castro-home",
     "clubId": "buyme",
     "online": true,
     "url": "https://buyme.co.il/brands/13438757"
   },
   {
-    "brandId": "charme-tlv",
+    "brandId": "cezar",
     "clubId": "buyme",
     "online": false,
     "url": "https://buyme.co.il/brands/13438757"
   },
   {
-    "brandId": "chi-chi",
+    "brandId": "chen-keidar",
     "clubId": "buyme",
     "online": true,
     "url": "https://buyme.co.il/brands/13438757"
   },
   {
-    "brandId": "chozen",
+    "brandId": "chez-vivie",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "chill",
+    "clubId": "buyme",
+    "online": true,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "choose-your-cookies",
+    "clubId": "buyme",
+    "online": true,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "christina",
+    "clubId": "buyme",
+    "online": true,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "cicilya",
     "clubId": "buyme",
     "online": true,
     "url": "https://buyme.co.il/brands/13438757"
@@ -5562,13 +8496,61 @@
     "url": "https://buyme.co.il/brands/13438757"
   },
   {
+    "brandId": "clay-house",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
     "brandId": "claylatlv",
     "clubId": "buyme",
     "online": false,
     "url": "https://buyme.co.il/brands/13438757"
   },
   {
-    "brandId": "cook-and-bake",
+    "brandId": "clearly",
+    "clubId": "buyme",
+    "online": true,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "clinique",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "coconut-love",
+    "clubId": "buyme",
+    "online": true,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "coffee-with-me",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "color-cafe",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "coloria-tlv",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "converse",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "cos",
     "clubId": "buyme",
     "online": false,
     "url": "https://buyme.co.il/brands/13438757"
@@ -5586,7 +8568,79 @@
     "url": "https://buyme.co.il/brands/13438757"
   },
   {
+    "brandId": "creatures-of-habit",
+    "clubId": "buyme",
+    "online": true,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "crocs",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "crown-club",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "d-facto",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
     "brandId": "d-rococo",
+    "clubId": "buyme",
+    "online": true,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "d-tlv-2",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "daisy-mei",
+    "clubId": "buyme",
+    "online": true,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "dance-tel-aviv",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "danielle-gerber",
+    "clubId": "buyme",
+    "online": true,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "daphne-skin",
+    "clubId": "buyme",
+    "online": true,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "darya",
+    "clubId": "buyme",
+    "online": true,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "dasi-boutique-experience",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "daysy",
     "clubId": "buyme",
     "online": true,
     "url": "https://buyme.co.il/brands/13438757"
@@ -5598,19 +8652,151 @@
     "url": "https://buyme.co.il/brands/13438757"
   },
   {
+    "brandId": "decorado",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "deep-siam",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "deli-queso",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "deli-vino",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "denim-bar",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "desert-hom-by-glow",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "desigual",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "devine",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "didiz",
+    "clubId": "buyme",
+    "online": true,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "dixie",
+    "clubId": "buyme",
+    "online": true,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "dkny",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "doart",
+    "clubId": "buyme",
+    "online": true,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "dog-market",
+    "clubId": "buyme",
+    "online": true,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "dol-e-mila",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "domo",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "don-t-tell-mama",
+    "clubId": "buyme",
+    "online": true,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "donna-la-cucina",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "donna-victoria",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "dream-sport",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "dreame",
+    "clubId": "buyme",
+    "online": true,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "drix-game-cafe",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "dronden",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
     "brandId": "eat",
     "clubId": "buyme",
     "online": false,
     "url": "https://buyme.co.il/brands/13438757"
   },
   {
-    "brandId": "eats-cafeteria",
+    "brandId": "eatalia",
     "clubId": "buyme",
     "online": false,
     "url": "https://buyme.co.il/brands/13438757"
   },
   {
-    "brandId": "econawa",
+    "brandId": "eazy2gift",
     "clubId": "buyme",
     "online": true,
     "url": "https://buyme.co.il/brands/13438757"
@@ -5622,7 +8808,97 @@
     "url": "https://buyme.co.il/brands/13438757"
   },
   {
+    "brandId": "elit-swimwear",
+    "clubId": "buyme",
+    "online": true,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "ellesse",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "emporium",
+    "clubId": "buyme",
+    "online": true,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "energym",
+    "clubId": "buyme",
+    "online": true,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "enerjucier",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "era-active",
+    "clubId": "buyme",
+    "online": true,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "era-jewelry",
+    "clubId": "buyme",
+    "online": true,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "erborian",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "erroca-by-super-pharm",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "eskimos",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
     "brandId": "estee-lauder",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "eureka-workshop",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "ever-lab",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "extreme",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "eye-glow",
+    "clubId": "buyme",
+    "online": true,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "fantastic",
     "clubId": "buyme",
     "online": false,
     "url": "https://buyme.co.il/brands/13438757"
@@ -5631,6 +8907,24 @@
     "brandId": "femina",
     "clubId": "buyme",
     "online": true,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "festive",
+    "clubId": "buyme",
+    "online": true,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "fine-rituals",
+    "clubId": "buyme",
+    "online": true,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "fiori",
+    "clubId": "buyme",
+    "online": false,
     "url": "https://buyme.co.il/brands/13438757"
   },
   {
@@ -5646,6 +8940,24 @@
     "url": "https://buyme.co.il/brands/13438757"
   },
   {
+    "brandId": "fly-away",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "flybyfly",
+    "clubId": "buyme",
+    "online": true,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "flyfoot",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
     "brandId": "flying-tiger",
     "clubId": "buyme",
     "online": false,
@@ -5658,21 +8970,87 @@
     "url": "https://buyme.co.il/brands/13438757"
   },
   {
-    "brandId": "foot-locker",
+    "brandId": "food-terminal",
     "clubId": "buyme",
     "online": true,
     "url": "https://buyme.co.il/brands/13438757"
   },
   {
-    "brandId": "fox-home",
-    "clubId": "buyme",
-    "online": true,
-    "url": "https://buyme.co.il/brands/13438757"
-  },
-  {
-    "brandId": "frame-sushi-bar-unniko-sushi",
+    "brandId": "foody",
     "clubId": "buyme",
     "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "forever21",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "forevertold",
+    "clubId": "buyme",
+    "online": true,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "fox-2",
+    "clubId": "buyme",
+    "online": true,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "fox-3",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "frangelico",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "freefit",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "g-concept-2",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "gaby-s-online",
+    "clubId": "buyme",
+    "online": true,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "gade",
+    "clubId": "buyme",
+    "online": true,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "gal-gonen",
+    "clubId": "buyme",
+    "online": true,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "gali",
+    "clubId": "buyme",
+    "online": true,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "gambino-retro-x",
+    "clubId": "buyme",
+    "online": true,
     "url": "https://buyme.co.il/brands/13438757"
   },
   {
@@ -5688,7 +9066,55 @@
     "url": "https://buyme.co.il/brands/13438757"
   },
   {
-    "brandId": "giraffe",
+    "brandId": "gatsby",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "getaway",
+    "clubId": "buyme",
+    "online": true,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "getaway-by-buyme",
+    "clubId": "buyme",
+    "online": true,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "gin-club",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "gitta-bags",
+    "clubId": "buyme",
+    "online": true,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "give-a-smile-by-buyme",
+    "clubId": "buyme",
+    "online": true,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "glam42-sephora-collection",
+    "clubId": "buyme",
+    "online": true,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "glo-jewelries",
+    "clubId": "buyme",
+    "online": true,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "global-brands",
     "clubId": "buyme",
     "online": false,
     "url": "https://buyme.co.il/brands/13438757"
@@ -5706,6 +9132,12 @@
     "url": "https://buyme.co.il/brands/13438757"
   },
   {
+    "brandId": "golf-2",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
     "brandId": "golf-co",
     "clubId": "buyme",
     "online": false,
@@ -5718,7 +9150,67 @@
     "url": "https://buyme.co.il/brands/13438757"
   },
   {
+    "brandId": "good-morning-sunshine",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "goom",
+    "clubId": "buyme",
+    "online": true,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "govana-fashion",
+    "clubId": "buyme",
+    "online": true,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "grinberg-burger",
+    "clubId": "buyme",
+    "online": true,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "groovim",
+    "clubId": "buyme",
+    "online": true,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "guess",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "guilty",
+    "clubId": "buyme",
+    "online": true,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "guy-eitani-healing",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
     "brandId": "h-m",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "h-m-2",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "h-m-home",
     "clubId": "buyme",
     "online": false,
     "url": "https://buyme.co.il/brands/13438757"
@@ -5730,9 +9222,57 @@
     "url": "https://buyme.co.il/brands/13438757"
   },
   {
-    "brandId": "happy-lemon",
+    "brandId": "h-o-carter-s-oshkosh",
+    "clubId": "buyme",
+    "online": true,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "h-o-kids",
     "clubId": "buyme",
     "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "hackett",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "hackett-gant",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "happy-hempy",
+    "clubId": "buyme",
+    "online": true,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "head-spa-israel",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "helena",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "helena-2",
+    "clubId": "buyme",
+    "online": true,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "hili-toys",
+    "clubId": "buyme",
+    "online": true,
     "url": "https://buyme.co.il/brands/13438757"
   },
   {
@@ -5748,7 +9288,31 @@
     "url": "https://buyme.co.il/brands/13438757"
   },
   {
+    "brandId": "holyland-civilians",
+    "clubId": "buyme",
+    "online": true,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "home-decor",
+    "clubId": "buyme",
+    "online": true,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "homegrown",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
     "brandId": "homestyle",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "homy",
     "clubId": "buyme",
     "online": false,
     "url": "https://buyme.co.il/brands/13438757"
@@ -5760,19 +9324,61 @@
     "url": "https://buyme.co.il/brands/13438757"
   },
   {
+    "brandId": "hotcrown-jewelry",
+    "clubId": "buyme",
+    "online": true,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
     "brandId": "hotel-lear-sense",
     "clubId": "buyme",
     "online": false,
     "url": "https://buyme.co.il/brands/13438757"
   },
   {
-    "brandId": "i-jump",
+    "brandId": "house-of-joy-spa",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "hub-ility",
+    "clubId": "buyme",
+    "online": true,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "i-am-little",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "i-optic",
     "clubId": "buyme",
     "online": false,
     "url": "https://buyme.co.il/brands/13438757"
   },
   {
     "brandId": "ibags",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "ibbg",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "ice-cube",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "ice-healing-center",
     "clubId": "buyme",
     "online": false,
     "url": "https://buyme.co.il/brands/13438757"
@@ -5790,7 +9396,85 @@
     "url": "https://buyme.co.il/brands/13438757"
   },
   {
+    "brandId": "imahot",
+    "clubId": "buyme",
+    "online": true,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "imracing",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "incense",
+    "clubId": "buyme",
+    "online": true,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "inhale-exhale",
+    "clubId": "buyme",
+    "online": true,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
     "brandId": "ink-hotel",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "instablock",
+    "clubId": "buyme",
+    "online": true,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "intech",
+    "clubId": "buyme",
+    "online": true,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "inter-jeans",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "inter-jeans-by-nyou",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "intimissimi",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "irobot",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "ironline",
+    "clubId": "buyme",
+    "online": true,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "isla-spa",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "israel-2go",
     "clubId": "buyme",
     "online": false,
     "url": "https://buyme.co.il/brands/13438757"
@@ -5802,9 +9486,21 @@
     "url": "https://buyme.co.il/brands/13438757"
   },
   {
+    "brandId": "italsofa",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
     "brandId": "itay-brands",
     "clubId": "buyme",
     "online": true,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "izen-spa",
+    "clubId": "buyme",
+    "online": false,
     "url": "https://buyme.co.il/brands/13438757"
   },
   {
@@ -5820,7 +9516,43 @@
     "url": "https://buyme.co.il/brands/13438757"
   },
   {
+    "brandId": "jah-spa-5",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "jah-spa-6",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "jansport-online",
+    "clubId": "buyme",
+    "online": true,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
     "brandId": "japan-japan",
+    "clubId": "buyme",
+    "online": true,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "jem-s",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "jet-lag",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "jez-v",
     "clubId": "buyme",
     "online": true,
     "url": "https://buyme.co.il/brands/13438757"
@@ -5832,7 +9564,25 @@
     "url": "https://buyme.co.il/brands/13438757"
   },
   {
+    "brandId": "jly",
+    "clubId": "buyme",
+    "online": true,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
     "brandId": "jo-malone-london",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "john-boy",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "joy",
     "clubId": "buyme",
     "online": false,
     "url": "https://buyme.co.il/brands/13438757"
@@ -5862,13 +9612,37 @@
     "url": "https://buyme.co.il/brands/13438757"
   },
   {
+    "brandId": "just-believe-jewelry",
+    "clubId": "buyme",
+    "online": true,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
     "brandId": "just-meat",
     "clubId": "buyme",
     "online": true,
     "url": "https://buyme.co.il/brands/13438757"
   },
   {
-    "brandId": "kedem-spa",
+    "brandId": "juv-activewear",
+    "clubId": "buyme",
+    "online": true,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "kab-kem",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "kahiko-swimwear",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "kalamata",
     "clubId": "buyme",
     "online": false,
     "url": "https://buyme.co.il/brands/13438757"
@@ -5880,9 +9654,75 @@
     "url": "https://buyme.co.il/brands/13438757"
   },
   {
+    "brandId": "kipulim",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "kitcheneat",
+    "clubId": "buyme",
+    "online": true,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "koa",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "koh-thai",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "kuala",
+    "clubId": "buyme",
+    "online": true,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
     "brandId": "kumi",
     "clubId": "buyme",
     "online": true,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "kuni-online",
+    "clubId": "buyme",
+    "online": true,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "l-occitane",
+    "clubId": "buyme",
+    "online": true,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "l-raphael-by-ronit-raphael",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "la-maison-du-savon",
+    "clubId": "buyme",
+    "online": true,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "la-montia",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "laguna-sea-sports",
+    "clubId": "buyme",
+    "online": false,
     "url": "https://buyme.co.il/brands/13438757"
   },
   {
@@ -5904,15 +9744,45 @@
     "url": "https://buyme.co.il/brands/13438757"
   },
   {
+    "brandId": "lalun-2",
+    "clubId": "buyme",
+    "online": true,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
     "brandId": "lamer",
     "clubId": "buyme",
     "online": true,
     "url": "https://buyme.co.il/brands/13438757"
   },
   {
-    "brandId": "laster",
+    "brandId": "lavic",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "le-house-of-asia",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "lee",
     "clubId": "buyme",
     "online": true,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "lee-cooper",
+    "clubId": "buyme",
+    "online": true,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "lee-cooper-kids",
+    "clubId": "buyme",
+    "online": false,
     "url": "https://buyme.co.il/brands/13438757"
   },
   {
@@ -5928,9 +9798,93 @@
     "url": "https://buyme.co.il/brands/13438757"
   },
   {
-    "brandId": "login-hotels",
+    "brandId": "leo",
     "clubId": "buyme",
     "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "leo-cubs",
+    "clubId": "buyme",
+    "online": true,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "leobus",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "liatk",
+    "clubId": "buyme",
+    "online": true,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "lidor-bar",
+    "clubId": "buyme",
+    "online": true,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "lilibloom",
+    "clubId": "buyme",
+    "online": true,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "lilush-box",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "lily-rose",
+    "clubId": "buyme",
+    "online": true,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "liminal",
+    "clubId": "buyme",
+    "online": true,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "linenz",
+    "clubId": "buyme",
+    "online": true,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "livere",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "lol-art",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "longchamp",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "looco",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "lord-tickets",
+    "clubId": "buyme",
+    "online": true,
     "url": "https://buyme.co.il/brands/13438757"
   },
   {
@@ -5940,7 +9894,55 @@
     "url": "https://buyme.co.il/brands/13438757"
   },
   {
+    "brandId": "lost",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "loullie",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "love-2",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "lulu-baby",
+    "clubId": "buyme",
+    "online": true,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "lulu-vintage",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "lunel",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "m32",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
     "brandId": "mac",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "mac-2",
     "clubId": "buyme",
     "online": false,
     "url": "https://buyme.co.il/brands/13438757"
@@ -5952,7 +9954,127 @@
     "url": "https://buyme.co.il/brands/13438757"
   },
   {
-    "brandId": "mango",
+    "brandId": "maika",
+    "clubId": "buyme",
+    "online": true,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "maiyan-ceramic",
+    "clubId": "buyme",
+    "online": true,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "malaya-kids",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "mamagreg",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "mantra",
+    "clubId": "buyme",
+    "online": true,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "marley",
+    "clubId": "buyme",
+    "online": true,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "marmor-house",
+    "clubId": "buyme",
+    "online": true,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "mashya",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "maskit",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "matteo",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "mayer-house-hotel-spa",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "mebook",
+    "clubId": "buyme",
+    "online": true,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "medical-spa-center",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "mekimi",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "men-by-nori",
+    "clubId": "buyme",
+    "online": true,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "ment-to-drive",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "mermaids-house",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "merry-steps",
+    "clubId": "buyme",
+    "online": true,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "mey-jewelry",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "meze",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "mi-alma",
     "clubId": "buyme",
     "online": false,
     "url": "https://buyme.co.il/brands/13438757"
@@ -5970,21 +10092,51 @@
     "url": "https://buyme.co.il/brands/13438757"
   },
   {
+    "brandId": "mila",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
     "brandId": "mimi-vaza",
     "clubId": "buyme",
     "online": false,
     "url": "https://buyme.co.il/brands/13438757"
   },
   {
-    "brandId": "miniso",
+    "brandId": "minded-house-of-wellness",
     "clubId": "buyme",
     "online": false,
     "url": "https://buyme.co.il/brands/13438757"
   },
   {
-    "brandId": "miss-nori",
+    "brandId": "minene",
     "clubId": "buyme",
     "online": true,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "mirza",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "mishka",
+    "clubId": "buyme",
+    "online": true,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "mix-matcha",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "mixta",
+    "clubId": "buyme",
+    "online": false,
     "url": "https://buyme.co.il/brands/13438757"
   },
   {
@@ -6006,9 +10158,57 @@
     "url": "https://buyme.co.il/brands/13438757"
   },
   {
-    "brandId": "mokaya",
+    "brandId": "modibodi",
+    "clubId": "buyme",
+    "online": true,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "molet",
     "clubId": "buyme",
     "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "moments",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "mommysport",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "mon-e",
+    "clubId": "buyme",
+    "online": true,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "monte-black",
+    "clubId": "buyme",
+    "online": true,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "mor-for-your-baby",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "moran-gil-cakery",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "more-food",
+    "clubId": "buyme",
+    "online": true,
     "url": "https://buyme.co.il/brands/13438757"
   },
   {
@@ -6018,13 +10218,229 @@
     "url": "https://buyme.co.il/brands/13438757"
   },
   {
-    "brandId": "mr-pretzels",
+    "brandId": "motion-lab",
+    "clubId": "buyme",
+    "online": true,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "movement",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "moy",
+    "clubId": "buyme",
+    "online": true,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "mr-bun-burger",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "multi-brands",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "muza",
+    "clubId": "buyme",
+    "online": true,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "my-baby-2",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "my-medi",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "my-winery",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "mysticroom",
     "clubId": "buyme",
     "online": false,
     "url": "https://buyme.co.il/brands/13438757"
   },
   {
     "brandId": "naaman",
+    "clubId": "buyme",
+    "online": true,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "naaman-vardinon",
+    "clubId": "buyme",
+    "online": true,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "nagisa",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "nanobebe",
+    "clubId": "buyme",
+    "online": true,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "napo",
+    "clubId": "buyme",
+    "online": true,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "nautica",
+    "clubId": "buyme",
+    "online": true,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "neta-efrati",
+    "clubId": "buyme",
+    "online": true,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "new-era",
+    "clubId": "buyme",
+    "online": true,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "newton",
+    "clubId": "buyme",
+    "online": true,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "nextheat",
+    "clubId": "buyme",
+    "online": true,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "nike",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "nine-west",
+    "clubId": "buyme",
+    "online": true,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "nitzan-for-moms",
+    "clubId": "buyme",
+    "online": true,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "noam-outdoors",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "nofar-mor",
+    "clubId": "buyme",
+    "online": true,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "nola-american-bakery",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "noonebetter",
+    "clubId": "buyme",
+    "online": true,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "noor-glamping",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "noovi",
+    "clubId": "buyme",
+    "online": true,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "nori-kids",
+    "clubId": "buyme",
+    "online": true,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "noritamy",
+    "clubId": "buyme",
+    "online": true,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "novarun",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "o-lingerie",
+    "clubId": "buyme",
+    "online": true,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "obo",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "ofek-woodi-2",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "ofiyaa-israel",
+    "clubId": "buyme",
+    "online": true,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "oh-my-box",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "okinawa",
     "clubId": "buyme",
     "online": true,
     "url": "https://buyme.co.il/brands/13438757"
@@ -6042,19 +10458,139 @@
     "url": "https://buyme.co.il/brands/13438757"
   },
   {
+    "brandId": "oliere-paris",
+    "clubId": "buyme",
+    "online": true,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "on-tour-by-issta-sport",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "onami",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
     "brandId": "only-s-beauty",
     "clubId": "buyme",
     "online": true,
     "url": "https://buyme.co.il/brands/13438757"
   },
   {
-    "brandId": "opa-skyfield",
+    "brandId": "oomai-urban-sushi",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "orea",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "organic-zone",
     "clubId": "buyme",
     "online": true,
     "url": "https://buyme.co.il/brands/13438757"
   },
   {
+    "brandId": "other-stories",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "otilyas",
+    "clubId": "buyme",
+    "online": true,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "outdoor",
+    "clubId": "buyme",
+    "online": true,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "outline",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "owlet-care",
+    "clubId": "buyme",
+    "online": true,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "paint-pub",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "palmers",
+    "clubId": "buyme",
+    "online": true,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "palphot",
+    "clubId": "buyme",
+    "online": true,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "papi-piercing",
+    "clubId": "buyme",
+    "online": true,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "par-derriere",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "paseo",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "pasta-della-casa",
+    "clubId": "buyme",
+    "online": true,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "pastel",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "pecka-le",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
     "brandId": "pelle-by-shelly-gafni",
+    "clubId": "buyme",
+    "online": true,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "pelle-gift",
     "clubId": "buyme",
     "online": true,
     "url": "https://buyme.co.il/brands/13438757"
@@ -6066,15 +10602,111 @@
     "url": "https://buyme.co.il/brands/13438757"
   },
   {
+    "brandId": "petit-loup",
+    "clubId": "buyme",
+    "online": true,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "pha-design",
+    "clubId": "buyme",
+    "online": true,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "philadelphia",
+    "clubId": "buyme",
+    "online": true,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "picabook",
+    "clubId": "buyme",
+    "online": true,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "piccell",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "picnic",
+    "clubId": "buyme",
+    "online": true,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "piece-of-nature",
+    "clubId": "buyme",
+    "online": true,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "pitz-surf-explore",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "playground-restaurant",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
     "brandId": "playsmart",
     "clubId": "buyme",
     "online": true,
     "url": "https://buyme.co.il/brands/13438757"
   },
   {
-    "brandId": "popsi",
+    "brandId": "polgat",
     "clubId": "buyme",
     "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "pomo",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "pop-pope",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "pop-pope-6-anniversary",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "poupe-e",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "power-house",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "pozitive",
+    "clubId": "buyme",
+    "online": true,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "pretty-ballerinas",
+    "clubId": "buyme",
+    "online": true,
     "url": "https://buyme.co.il/brands/13438757"
   },
   {
@@ -6084,15 +10716,57 @@
     "url": "https://buyme.co.il/brands/13438757"
   },
   {
+    "brandId": "pure",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "questair",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "questline",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "quiksilver",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
     "brandId": "radler",
     "clubId": "buyme",
     "online": false,
     "url": "https://buyme.co.il/brands/13438757"
   },
   {
-    "brandId": "raven",
+    "brandId": "rain-drop-spa",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "ray",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "redefine-hair",
     "clubId": "buyme",
     "online": true,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "refresh",
+    "clubId": "buyme",
+    "online": false,
     "url": "https://buyme.co.il/brands/13438757"
   },
   {
@@ -6102,7 +10776,7 @@
     "url": "https://buyme.co.il/brands/13438757"
   },
   {
-    "brandId": "rip-curl",
+    "brandId": "reset",
     "clubId": "buyme",
     "online": false,
     "url": "https://buyme.co.il/brands/13438757"
@@ -6120,13 +10794,67 @@
     "url": "https://buyme.co.il/brands/13438757"
   },
   {
+    "brandId": "rossetto",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "roy-chocolate",
+    "clubId": "buyme",
+    "online": true,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "ruby",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "ruby-bay",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "rugsil",
+    "clubId": "buyme",
+    "online": true,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
     "brandId": "s-wear",
     "clubId": "buyme",
     "online": false,
     "url": "https://buyme.co.il/brands/13438757"
   },
   {
-    "brandId": "sanando",
+    "brandId": "saar-yoga",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "sabon",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "sagit-jewelry",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "salomon",
+    "clubId": "buyme",
+    "online": true,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "sam-edelman",
     "clubId": "buyme",
     "online": false,
     "url": "https://buyme.co.il/brands/13438757"
@@ -6138,13 +10866,25 @@
     "url": "https://buyme.co.il/brands/13438757"
   },
   {
-    "brandId": "saucony",
+    "brandId": "saul",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "scotch-soda",
     "clubId": "buyme",
     "online": true,
     "url": "https://buyme.co.il/brands/13438757"
   },
   {
-    "brandId": "scotch-soda",
+    "brandId": "sea-time",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "sebastian",
     "clubId": "buyme",
     "online": true,
     "url": "https://buyme.co.il/brands/13438757"
@@ -6168,7 +10908,25 @@
     "url": "https://buyme.co.il/brands/13438757"
   },
   {
-    "brandId": "selfish",
+    "brandId": "sequoia",
+    "clubId": "buyme",
+    "online": true,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "set-up",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "shak-it",
+    "clubId": "buyme",
+    "online": true,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "shaka",
     "clubId": "buyme",
     "online": true,
     "url": "https://buyme.co.il/brands/13438757"
@@ -6180,13 +10938,13 @@
     "url": "https://buyme.co.il/brands/13438757"
   },
   {
-    "brandId": "sharespa",
+    "brandId": "shape-patissier-by-tamar-shilon",
     "clubId": "buyme",
     "online": true,
     "url": "https://buyme.co.il/brands/13438757"
   },
   {
-    "brandId": "sharespa-gordon-beach",
+    "brandId": "sharespa",
     "clubId": "buyme",
     "online": true,
     "url": "https://buyme.co.il/brands/13438757"
@@ -6216,9 +10974,87 @@
     "url": "https://buyme.co.il/brands/13438757"
   },
   {
+    "brandId": "shazlong-by-unico",
+    "clubId": "buyme",
+    "online": true,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "sheepy",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
     "brandId": "sheva",
     "clubId": "buyme",
     "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "shiree-odiz",
+    "clubId": "buyme",
+    "online": true,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "shlomit-ziv-alvas",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "shoesonline",
+    "clubId": "buyme",
+    "online": true,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "shoppu",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "show-off",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "shugis",
+    "clubId": "buyme",
+    "online": true,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "signet-collection",
+    "clubId": "buyme",
+    "online": true,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "silver-bell",
+    "clubId": "buyme",
+    "online": true,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "simbioze",
+    "clubId": "buyme",
+    "online": true,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "simmons-online",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "simple-as-that",
+    "clubId": "buyme",
+    "online": true,
     "url": "https://buyme.co.il/brands/13438757"
   },
   {
@@ -6228,13 +11064,91 @@
     "url": "https://buyme.co.il/brands/13438757"
   },
   {
+    "brandId": "slav-so",
+    "clubId": "buyme",
+    "online": true,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "sleezy-pizza",
+    "clubId": "buyme",
+    "online": true,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "slowness",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "smarttour",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "smash-room",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "smeg",
+    "clubId": "buyme",
+    "online": true,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "smoovee",
+    "clubId": "buyme",
+    "online": true,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
     "brandId": "soho",
     "clubId": "buyme",
     "online": true,
     "url": "https://buyme.co.il/brands/13438757"
   },
   {
-    "brandId": "spa-my-touch",
+    "brandId": "solog",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "somek-winery",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "sora-spa",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "spa-akoya",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "spa-jlm",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "sparadise",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "sparco",
     "clubId": "buyme",
     "online": false,
     "url": "https://buyme.co.il/brands/13438757"
@@ -6243,6 +11157,24 @@
     "brandId": "speedo",
     "clubId": "buyme",
     "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "spicehaus-cocktails",
+    "clubId": "buyme",
+    "online": true,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "spotlight-podcasts",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "start-home",
+    "clubId": "buyme",
+    "online": true,
     "url": "https://buyme.co.il/brands/13438757"
   },
   {
@@ -6258,9 +11190,75 @@
     "url": "https://buyme.co.il/brands/13438757"
   },
   {
+    "brandId": "story-2",
+    "clubId": "buyme",
+    "online": true,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "studio-51",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "studio-cheha",
+    "clubId": "buyme",
+    "online": true,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "studio-cotta",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "studio-happy",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
     "brandId": "stylish",
     "clubId": "buyme",
     "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "sunglass-hut",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "super-friends",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "superdry",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "surf-club",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "surf-club-2",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "swagg",
+    "clubId": "buyme",
+    "online": true,
     "url": "https://buyme.co.il/brands/13438757"
   },
   {
@@ -6276,7 +11274,49 @@
     "url": "https://buyme.co.il/brands/13438757"
   },
   {
+    "brandId": "sweetweet",
+    "clubId": "buyme",
+    "online": true,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "swing",
+    "clubId": "buyme",
+    "online": true,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
     "brandId": "taizu",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "takeanap",
+    "clubId": "buyme",
+    "online": true,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "talada",
+    "clubId": "buyme",
+    "online": true,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "talia-jewelry",
+    "clubId": "buyme",
+    "online": true,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "taurus-smokehouse",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "tel-a-vin",
     "clubId": "buyme",
     "online": false,
     "url": "https://buyme.co.il/brands/13438757"
@@ -6288,9 +11328,63 @@
     "url": "https://buyme.co.il/brands/13438757"
   },
   {
-    "brandId": "the-black-box",
+    "brandId": "terminal-x-2",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "terratiles-studio",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "tes-leather-bags",
     "clubId": "buyme",
     "online": true,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "tfu-tfu",
+    "clubId": "buyme",
+    "online": true,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "thaitime",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "the-childrens-place",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "the-clean-dot",
+    "clubId": "buyme",
+    "online": true,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "the-cocktail-box",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "the-george-spa",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "the-grill-room-tlv",
+    "clubId": "buyme",
+    "online": false,
     "url": "https://buyme.co.il/brands/13438757"
   },
   {
@@ -6300,9 +11394,27 @@
     "url": "https://buyme.co.il/brands/13438757"
   },
   {
+    "brandId": "the-line-9",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "the-nest-shop",
+    "clubId": "buyme",
+    "online": true,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
     "brandId": "the-north-face-online",
     "clubId": "buyme",
     "online": true,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "the-om-caf",
+    "clubId": "buyme",
+    "online": false,
     "url": "https://buyme.co.il/brands/13438757"
   },
   {
@@ -6312,7 +11424,31 @@
     "url": "https://buyme.co.il/brands/13438757"
   },
   {
-    "brandId": "the-spa-2",
+    "brandId": "the-schumacher-hotel",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "think-and-drink",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "ticketteams",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "tiki",
+    "clubId": "buyme",
+    "online": true,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "tiktik",
     "clubId": "buyme",
     "online": false,
     "url": "https://buyme.co.il/brands/13438757"
@@ -6324,21 +11460,15 @@
     "url": "https://buyme.co.il/brands/13438757"
   },
   {
-    "brandId": "timothy-cafe",
-    "clubId": "buyme",
-    "online": false,
-    "url": "https://buyme.co.il/brands/13438757"
-  },
-  {
-    "brandId": "tinytap",
-    "clubId": "buyme",
-    "online": false,
-    "url": "https://buyme.co.il/brands/13438757"
-  },
-  {
     "brandId": "tlv",
     "clubId": "buyme",
     "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "toi-shop",
+    "clubId": "buyme",
+    "online": true,
     "url": "https://buyme.co.il/brands/13438757"
   },
   {
@@ -6348,7 +11478,31 @@
     "url": "https://buyme.co.il/brands/13438757"
   },
   {
-    "brandId": "toys-r-us",
+    "brandId": "toneline",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "topsea",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "topten",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "torii",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "tous",
     "clubId": "buyme",
     "online": false,
     "url": "https://buyme.co.il/brands/13438757"
@@ -6360,7 +11514,43 @@
     "url": "https://buyme.co.il/brands/13438757"
   },
   {
+    "brandId": "tres",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "tula",
+    "clubId": "buyme",
+    "online": true,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "tulip",
+    "clubId": "buyme",
+    "online": true,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
     "brandId": "tyo",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "under-armour",
+    "clubId": "buyme",
+    "online": true,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "urban-giraffa",
+    "clubId": "buyme",
+    "online": true,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "urban-spa-tlv",
     "clubId": "buyme",
     "online": false,
     "url": "https://buyme.co.il/brands/13438757"
@@ -6369,6 +11559,18 @@
     "brandId": "urbanica",
     "clubId": "buyme",
     "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "ustabelle",
+    "clubId": "buyme",
+    "online": true,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "valhalla",
+    "clubId": "buyme",
+    "online": true,
     "url": "https://buyme.co.il/brands/13438757"
   },
   {
@@ -6396,6 +11598,12 @@
     "url": "https://buyme.co.il/brands/13438757"
   },
   {
+    "brandId": "vilebrequin",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
     "brandId": "vintage-original",
     "clubId": "buyme",
     "online": true,
@@ -6420,6 +11628,48 @@
     "url": "https://buyme.co.il/brands/13438757"
   },
   {
+    "brandId": "vivino-4",
+    "clubId": "buyme",
+    "online": true,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "vivino-5",
+    "clubId": "buyme",
+    "online": true,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "vivino-6",
+    "clubId": "buyme",
+    "online": true,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "vivino-7",
+    "clubId": "buyme",
+    "online": true,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "volt-swimwear",
+    "clubId": "buyme",
+    "online": true,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "water-io",
+    "clubId": "buyme",
+    "online": true,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "we-bags",
+    "clubId": "buyme",
+    "online": true,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
     "brandId": "we-love-plants",
     "clubId": "buyme",
     "online": true,
@@ -6432,13 +11682,133 @@
     "url": "https://buyme.co.il/brands/13438757"
   },
   {
+    "brandId": "west-and-spa",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "white-space",
+    "clubId": "buyme",
+    "online": true,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "white-villa",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "winest-store",
+    "clubId": "buyme",
+    "online": true,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "wlns-club",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "woman",
+    "clubId": "buyme",
+    "online": true,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "women-ai",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "word-by-story",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
     "brandId": "worker",
     "clubId": "buyme",
     "online": false,
     "url": "https://buyme.co.il/brands/13438757"
   },
   {
+    "brandId": "world8",
+    "clubId": "buyme",
+    "online": true,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "wrangler",
+    "clubId": "buyme",
+    "online": true,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "xi-mobility",
+    "clubId": "buyme",
+    "online": true,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "xray",
+    "clubId": "buyme",
+    "online": true,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
     "brandId": "yolo",
+    "clubId": "buyme",
+    "online": true,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "yooz",
+    "clubId": "buyme",
+    "online": true,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "yves-rocher",
+    "clubId": "buyme",
+    "online": true,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "zest",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "zionacafe",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "zmrm",
+    "clubId": "buyme",
+    "online": true,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "zo-tlv",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "zohara",
+    "clubId": "buyme",
+    "online": false,
+    "url": "https://buyme.co.il/brands/13438757"
+  },
+  {
+    "brandId": "zomee",
     "clubId": "buyme",
     "online": true,
     "url": "https://buyme.co.il/brands/13438757"
