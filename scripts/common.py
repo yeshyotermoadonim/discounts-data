@@ -67,6 +67,7 @@ def normalize_name(name: str) -> str:
     text = clean_text(name).casefold()
     text = text.replace("׳", "").replace("'", "").replace("`", "").replace('"', "").replace("״", "")
     text = re.sub(r"\b(online|אונליין|אונלין)\b", " ", text)
+    text = re.sub(r"^רשת\s+", "", text)
     return re.sub(r"\s+", " ", text).strip()
 
 

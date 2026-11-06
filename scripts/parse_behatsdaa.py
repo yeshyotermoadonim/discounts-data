@@ -1,7 +1,8 @@
 """Parse a saved בהצדעה wallet page (Beazdaa.html).
 
-The saved page is one wallet. The percentage comes from the page heading
-(for example "ארנק רשתות 20%"). Shop cards do not carry a separate rate.
+Each shop card means the chain is available in that wallet. The page does
+not give a per-shop percentage, so none is recorded. "אונליין" in the shop
+name is treated as online for this club only.
 """
 
 from __future__ import annotations
@@ -19,21 +20,8 @@ CARD_RE = re.compile(
     r'<div class="link-branches"><a href="([^"]*)">',
     re.S,
 )
-HEADING_RE = re.compile(r'class="custom-header-text[^"]*"[^>]*>([^<]+)')
-PERCENT_RE = re.compile(r"(\d{1,2})\s*%")
-
-
 def parse(html_path: Path, limit: int | None = None) -> list[dict]:
     html = html_path.read_text(encoding="utf-8", errors="replace")
-    headings = [clean_text(value) for value in HEADING_RE.findall(html)]
-    if not headings:
-        raise SystemExit(f"No wallet heading in {html_path}")
-    percent_match = PERCENT_RE.search(headings[0])
-    if not percent_match:
-        raise SystemExit(f"No percentage in בהצדעה heading: {headings[0]!r}")
-    percent = int(percent_match.group(1))
-    source = "https://www.behatsdaa.org.il/card/shops?walletId=2809"
-
     rows = []
     seen = set()
     for name, href in CARD_RE.findall(html):
@@ -41,18 +29,15 @@ def parse(html_path: Path, limit: int | None = None) -> list[dict]:
         if not name or name in seen:
             continue
         seen.add(name)
-        url = href.replace("&amp;", "&")
+        folded = name.casefold()
         rows.append(
             {
                 "clubId": "behatsdaa",
                 "name": name,
-                "categories": ["other"],
+                "categories": [],
                 "logoUrl": None,
-                "redemptionUrl": url,
-                "onlineRedemption": "אונליין" in name.casefold() or "online" in name.casefold(),
-                "sourceUrl": source,
-                "discountPercentage": percent,
-                "note": f"Listed on בהצדעה wallet “{headings[0]}”. Saved page {html_path.name}.",
+                "url": href.replace("&amp;", "&"),
+                "online": "אונליין" in folded or "online" in folded,
             }
         )
     return apply_limit(rows, limit)
@@ -64,7 +49,7 @@ def main() -> None:
     parser.add_argument("--limit", type=int, default=None)
     args = parser.parse_args()
     rows = parse(args.html, args.limit)
-    print(f"behatsdaa {len(rows)} shops, sample: {rows[0]['name']} {rows[0]['discountPercentage']}%")
+    print(f"behatsdaa {len(rows)} shops, sample: {rows[0]['name']} online={rows[0]['online']}")
 
 
 if __name__ == "__main__":

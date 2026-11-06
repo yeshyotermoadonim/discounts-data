@@ -13,7 +13,6 @@ from pathlib import Path
 from common import DEFAULT_DUMP, HEVER_CATEGORY_IDS, apply_limit, clean_text
 
 CHUNK_RE = re.compile(r'javascript:gotoBranches\((\d+)\)">([\s\S]*?)</a>')
-SOURCE = "https://www.mcc.co.il/site/pg/shely_card_company"
 LOGO_BASE = "https://www.mcc.co.il/pics/giftcard/"
 
 
@@ -50,7 +49,6 @@ def parse(html_path: Path, limit: int | None = None) -> list[dict]:
                 category_id = "other"
             if category_id not in category_ids:
                 category_ids.append(category_id)
-        category = " | ".join(categories)
         window_start = html.find(f"gotoBranches({company_id})")
         prefix = html[max(0, window_start - 400) : window_start]
         badge = re.search(r'class="online-badge([^"]*)"', prefix)
@@ -61,14 +59,8 @@ def parse(html_path: Path, limit: int | None = None) -> list[dict]:
                 "name": name,
                 "categories": category_ids or ["other"],
                 "logoUrl": f"{LOGO_BASE}{logo_file}",
-                "redemptionUrl": f"https://www.mcc.co.il/site/pg/shely_card_store?sn={company_id}",
-                "onlineRedemption": online,
-                "sourceUrl": SOURCE,
-                "discountPercentage": None,
-                "note": (
-                    "Listed on חבר שלי chain directory. "
-                    f"Category “{category}”. No percentage on this page."
-                ),
+                "url": f"https://www.mcc.co.il/site/pg/shely_card_store?sn={company_id}",
+                "online": online,
             }
         )
     if unknown:

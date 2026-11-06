@@ -11,7 +11,7 @@ This repository contains structured JSON data about Israeli consumer clubs (מו
 ```
 clubs.json        # Consumer club definitions
 brands.json       # Brand/retailer definitions
-discounts.json    # Discount records linking clubs to brands
+listings.json     # Where each brand is available, per club
 categories.json   # Product category taxonomy
 schema/
   discount.schema.json  # JSON Schema (draft-07) for all data files
@@ -48,63 +48,45 @@ Brand/retailer definitions. Each entry has:
 | name       | string          | Display name                           |
 | categories | string[]        | Array of category IDs                  |
 | logoUrl    | string \| null  | Logo image URL                         |
-| website    | string \| null  | Brand website URL                      |
 
-### `discounts.json`
+### `listings.json`
 
-Discount records. Each entry has:
-| Field               | Type             | Description                                              |
-|---------------------|------------------|----------------------------------------------------------|
-| id                  | string           | Unique ID: `{clubId}-{brandId}-{sequence}`               |
-| brandId             | string           | Reference to brand ID                                    |
-| clubId              | string           | Reference to club ID                                     |
-| type                | string           | `"percentage"` or `"fixed-price"`                        |
-| discountPercentage  | number \| null   | Discount % (0–100), null for fixed-price                 |
-| originalPrice       | number \| null   | Original price in ILS (for fixed-price type)             |
-| discountedPrice     | number \| null   | Discounted price in ILS (for fixed-price type)           |
-| redemptionUrl       | string \| null   | URL to redeem                                            |
-| onlineRedemption    | boolean \| null  | Can be redeemed online                                   |
-| mobileRedemption    | boolean \| null  | Can be redeemed via mobile app                           |
-| sourceUrl           | string \| null   | Verification source URL                                  |
-| lastVerified        | string \| null   | ISO date of last verification (YYYY-MM-DD)               |
-| verificationStatus  | string           | See verification statuses below                          |
-| _meta               | object           | `{ source: string, note: string }` — data provenance    |
+One row per brand per club. A row means the brand is available there. These club pages do not publish a percentage, so none is stored. `online` belongs to that club listing: the same brand can be online in one club and not in another.
 
-## Verification Statuses
+| Field   | Type    | Description                                      |
+|---------|---------|--------------------------------------------------|
+| brandId | string  | Reference to brand ID                            |
+| clubId  | string  | Reference to club ID                             |
+| online  | boolean | Redeemable online in this club                   |
+| url     | string  | Club page for this brand                         |
 
-| Status       | Meaning                                                                 |
-|--------------|-------------------------------------------------------------------------|
-| `verified`   | ✅ Independently checked against the club's website, confirmed accurate  |
-| `seed`       | 🌱 Initial seed data for UI development — not independently verified    |
-| `unverified` | ❓ Data added but not yet checked                                       |
-| `outdated`   | ⚠️ Previously verified but may no longer be current                    |
+## Updating
 
-## Contributing
+Put the three saved pages in one folder as `Beazdaa.html`, `Hever.html`, and `BuyMe.html`, then:
 
-### Adding a New Club
+```bash
+./scripts/update.sh ~/Downloads/Moadonim/2026-11-6
+```
 
-1. Add an entry to `clubs.json` with a unique slug `id`.
-2. Add discount entries in `discounts.json` linking `clubId` to existing brands.
-3. Set `verificationStatus: "verified"` only after independently checking the club website.
+That rewrites `clubs.json`, `brands.json`, `categories.json`, and `listings.json`, and copies them into the website seed. Commit and push this repo. The website reads the raw GitHub files and refreshes within about an hour. It does not redeploy Vercel. Design changes are deployed from `discounts-website` with `./scripts/deploy.sh`.
 
-### Adding a New Brand
+Saved club pages can also be rebuilt directly:
 
-1. Add an entry to `brands.json` with a unique slug `id`.
-2. Assign appropriate `categories` from `categories.json`.
-3. Add discount entries in `discounts.json` for each club that offers a discount.
+```bash
+python3 scripts/build_dataset.py
+python3 scripts/parse_behatsdaa.py --limit 5
+```
 
-### Adding a New Discount
+### Adding a listing
 
-1. Add an entry to `discounts.json`.
-2. Use the ID convention: `{clubId}-{brandId}-{NNN}` (zero-padded 3-digit sequence).
-3. Fill in `sourceUrl` and `lastVerified` when setting `verificationStatus: "verified"`.
+1. Add the brand to `brands.json` if it is new.
+2. Add one object to `listings.json` with `brandId`, `clubId`, `online`, and `url`.
+3. Do not invent a percentage. Availability is the record.
 
 ### Validating Data
 
-The `schema/discount.schema.json` file provides a JSON Schema (draft-07) for all data files. Use any JSON Schema validator to check:
-
 ```bash
-npx ajv-cli validate -s schema/discount.schema.json -d discounts.json
+npx ajv-cli validate -s schema/discount.schema.json -d listings.json
 ```
 
 ## License

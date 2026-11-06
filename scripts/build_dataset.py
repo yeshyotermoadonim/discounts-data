@@ -1,8 +1,11 @@
-"""Build clubs, brands, and discounts from the three saved club pages.
+"""Build clubs, brands, and listings from the three saved club pages.
 
-Each club parser can also be run on its own. This script is the one that
-writes discounts-data JSON, and the website seed copies when that folder
-is present.
+A listing means the brand is available in that club. Online is stored on
+the listing, because the same brand can be online in one club and not in
+another. There is no percentage: these pages do not publish one.
+
+Each club parser can also be run on its own. This script writes the JSON
+files, and the website seed copies when that folder is present.
 
     python3 scripts/parse_behatsdaa.py --limit 5
     python3 scripts/parse_hever.py --limit 5
@@ -19,7 +22,7 @@ from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 
-from common import DEFAULT_DUMP, NEW_CATEGORIES, SNAPSHOT_DATE, normalize_name, slugify
+from common import DEFAULT_DUMP, NEW_CATEGORIES, normalize_name, slugify
 from parse_behatsdaa import parse as parse_behatsdaa
 from parse_buyme import parse as parse_buyme
 from parse_hever import parse as parse_hever
@@ -34,6 +37,18 @@ def load_json(path: Path):
 
 def write_json(path: Path, data) -> None:
     path.write_text(json.dumps(data, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+
+
+def prefer_name(current: str, incoming: str) -> str:
+    def score(name: str) -> tuple:
+        folded = name.casefold()
+        return (
+            "אונליין" in folded or "online" in folded,
+            folded.startswith("רשת"),
+            len(name),
+        )
+
+    return incoming if score(incoming) < score(current) else current
 
 
 def build(limit: int | None, dump: Path) -> dict:
@@ -59,7 +74,7 @@ def build(limit: int | None, dump: Path) -> dict:
 
     brands_by_key: dict[str, dict] = {}
     brand_ids: dict[str, str] = {}
-    discounts = []
+    listings_by_pair: dict[tuple[str, str], dict] = {}
 
     for row in listings:
         key = normalize_name(row["name"])
@@ -79,50 +94,40 @@ def build(limit: int | None, dump: Path) -> dict:
                 "name": row["name"],
                 "categories": [],
                 "logoUrl": row["logoUrl"],
-                "website": None,
             }
         brand = brands_by_key[key]
+        brand["name"] = prefer_name(brand["name"], row["name"])
         if brand["logoUrl"] is None and row["logoUrl"]:
             brand["logoUrl"] = row["logoUrl"]
         for category_id in row["categories"]:
             if category_id not in brand["categories"]:
                 brand["categories"].append(category_id)
-        if not brand["categories"]:
-            brand["categories"] = ["other"]
 
-        percent = row["discountPercentage"]
-        discount_id = f"{row['clubId']}-{brand['id']}-001"
-        if any(item["id"] == discount_id for item in discounts):
-            continue
-        discounts.append(
-            {
-                "id": discount_id,
+        pair = (row["clubId"], brand["id"])
+        current = listings_by_pair.get(pair)
+        if current is None:
+            listings_by_pair[pair] = {
                 "brandId": brand["id"],
                 "clubId": row["clubId"],
-                "type": "percentage",
-                "discountPercentage": percent,
-                "originalPrice": None,
-                "discountedPrice": None,
-                "redemptionUrl": row["redemptionUrl"],
-                "onlineRedemption": row["onlineRedemption"],
-                "mobileRedemption": None,
-                "sourceUrl": row["sourceUrl"],
-                "lastVerified": SNAPSHOT_DATE,
-                "verificationStatus": "verified",
-                "_meta": {
-                    "source": f"saved-page:{row['clubId']}",
-                    "note": row["note"],
-                },
+                "online": bool(row["online"]),
+                "url": row["url"],
             }
-        )
+        else:
+            current["online"] = current["online"] or bool(row["online"])
+
+    for brand in brands_by_key.values():
+        specific = [category_id for category_id in brand["categories"] if category_id != "other"]
+        brand["categories"] = specific or brand["categories"]
 
     brands = sorted(brands_by_key.values(), key=lambda item: item["id"])
-    discounts.sort(key=lambda item: item["id"])
+    used_categories = {category_id for brand in brands for category_id in brand["categories"]}
+    categories = [item for item in categories if item["id"] in used_categories]
+    availability = sorted(listings_by_pair.values(), key=lambda item: (item["clubId"], item["brandId"]))
     return {
         "clubs": clubs,
         "categories": categories,
         "brands": brands,
-        "discounts": discounts,
+        "listings": availability,
         "buymeAdvertised": advertised,
         "buymeParsed": len(buyme_rows),
     }
@@ -136,26 +141,27 @@ def main() -> None:
     args = parser.parse_args()
     data = build(args.limit, args.dump)
     counts = {
-        club["id"]: sum(1 for row in data["discounts"] if row["clubId"] == club["id"])
+        club["id"]: sum(1 for row in data["listings"] if row["clubId"] == club["id"])
         for club in data["clubs"]
     }
     print(
-        f"brands={len(data['brands'])} discounts={len(data['discounts'])} "
+        f"brands={len(data['brands'])} listings={len(data['listings'])} "
         f"by club={counts} buyme_rendered={data['buymeParsed']} "
         f"buyme_counter={data['buymeAdvertised']}"
     )
     if args.dry_run:
         return
-    write_json(ROOT / "clubs.json", data["clubs"])
-    write_json(ROOT / "categories.json", data["categories"])
-    write_json(ROOT / "brands.json", data["brands"])
-    write_json(ROOT / "discounts.json", data["discounts"])
-    if SEED.exists():
-        write_json(SEED / "clubs.json", data["clubs"])
-        write_json(SEED / "categories.json", data["categories"])
-        write_json(SEED / "brands.json", data["brands"])
-        write_json(SEED / "discounts.json", data["discounts"])
-        print(f"synced seed {SEED}")
+    for folder in (ROOT, SEED):
+        if not folder.exists():
+            continue
+        write_json(folder / "clubs.json", data["clubs"])
+        write_json(folder / "categories.json", data["categories"])
+        write_json(folder / "brands.json", data["brands"])
+        write_json(folder / "listings.json", data["listings"])
+        old = folder / "discounts.json"
+        if old.exists():
+            old.unlink()
+    print(f"synced seed {SEED}")
 
 
 if __name__ == "__main__":

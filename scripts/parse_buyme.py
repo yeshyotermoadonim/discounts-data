@@ -50,15 +50,8 @@ def parse(html_path: Path, limit: int | None = None) -> tuple[list[dict], int | 
                 "name": name,
                 "categories": [buyme_category(description)],
                 "logoUrl": f"{LOGO_BASE}{logo_file}",
-                "redemptionUrl": SOURCE,
-                "onlineRedemption": "online-redeem" in chunk,
-                "sourceUrl": SOURCE,
-                "discountPercentage": None,
-                "note": (
-                    "Accepts BUYME ALL. "
-                    f"Card description: {description or '—'}. "
-                    "No percentage on this page."
-                ),
+                "url": SOURCE,
+                "online": "online-redeem" in chunk,
             }
         )
     return apply_limit(rows, limit), advertised

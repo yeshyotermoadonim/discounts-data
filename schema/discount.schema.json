@@ -1,21 +1,15 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "title": "Yesh Yoter Moadonim Data Schema",
-  "description": "JSON Schema validating clubs.json, brands.json, discounts.json, and categories.json",
+  "description": "JSON Schema for clubs.json, brands.json, listings.json, and categories.json",
   "definitions": {
     "category": {
       "type": "object",
       "required": ["id", "name"],
       "additionalProperties": false,
       "properties": {
-        "id": {
-          "type": "string",
-          "description": "Unique slug identifier for the category"
-        },
-        "name": {
-          "type": "string",
-          "description": "Display name in Hebrew"
-        }
+        "id": { "type": "string" },
+        "name": { "type": "string" }
       }
     },
     "club": {
@@ -23,171 +17,45 @@
       "required": ["id", "name", "nameEn", "url", "color", "active"],
       "additionalProperties": false,
       "properties": {
-        "id": {
-          "type": "string",
-          "description": "Unique slug identifier for the club"
-        },
-        "name": {
-          "type": "string",
-          "description": "Display name in Hebrew"
-        },
-        "nameEn": {
-          "type": "string",
-          "description": "Display name in English"
-        },
-        "url": {
-          "type": "string",
-          "format": "uri",
-          "description": "Club homepage URL"
-        },
-        "color": {
-          "type": "string",
-          "pattern": "^#[0-9A-Fa-f]{6}$",
-          "description": "Brand color as hex code"
-        },
-        "active": {
-          "type": "boolean",
-          "description": "Whether the club is currently active"
-        }
+        "id": { "type": "string" },
+        "name": { "type": "string" },
+        "nameEn": { "type": "string" },
+        "url": { "type": "string", "format": "uri" },
+        "color": { "type": "string", "pattern": "^#[0-9A-Fa-f]{6}$" },
+        "active": { "type": "boolean" }
       }
     },
     "brand": {
       "type": "object",
-      "required": ["id", "name", "categories", "logoUrl", "website"],
+      "required": ["id", "name", "categories", "logoUrl"],
       "additionalProperties": false,
       "properties": {
-        "id": {
-          "type": "string",
-          "description": "Unique slug identifier for the brand"
-        },
-        "name": {
-          "type": "string",
-          "description": "Display name of the brand"
-        },
+        "id": { "type": "string" },
+        "name": { "type": "string" },
         "categories": {
           "type": "array",
-          "items": { "type": "string" },
-          "description": "Array of category IDs this brand belongs to"
+          "items": { "type": "string" }
         },
         "logoUrl": {
           "oneOf": [
             { "type": "string", "format": "uri" },
             { "type": "null" }
-          ],
-          "description": "URL to the brand logo image"
-        },
-        "website": {
-          "oneOf": [
-            { "type": "string", "format": "uri" },
-            { "type": "null" }
-          ],
-          "description": "Brand website URL"
+          ]
         }
       }
     },
-    "discount": {
+    "listing": {
       "type": "object",
-      "required": [
-        "id", "brandId", "clubId", "type",
-        "discountPercentage", "originalPrice", "discountedPrice",
-        "redemptionUrl", "onlineRedemption", "mobileRedemption",
-        "sourceUrl", "lastVerified", "verificationStatus", "_meta"
-      ],
+      "required": ["brandId", "clubId", "online", "url"],
       "additionalProperties": false,
       "properties": {
-        "id": {
-          "type": "string",
-          "description": "Unique identifier, convention: {clubId}-{brandId}-{sequence}"
+        "brandId": { "type": "string" },
+        "clubId": { "type": "string" },
+        "online": {
+          "type": "boolean",
+          "description": "Online redemption for this brand in this club"
         },
-        "brandId": {
-          "type": "string",
-          "description": "Reference to a brand's id in brands.json"
-        },
-        "clubId": {
-          "type": "string",
-          "description": "Reference to a club's id in clubs.json"
-        },
-        "type": {
-          "type": "string",
-          "enum": ["percentage", "fixed-price"],
-          "description": "Type of discount offered"
-        },
-        "discountPercentage": {
-          "oneOf": [
-            { "type": "number", "minimum": 0, "maximum": 100 },
-            { "type": "null" }
-          ],
-          "description": "Discount percentage (0-100), null for fixed-price type"
-        },
-        "originalPrice": {
-          "oneOf": [
-            { "type": "number", "minimum": 0 },
-            { "type": "null" }
-          ],
-          "description": "Original price in ILS, used for fixed-price discounts"
-        },
-        "discountedPrice": {
-          "oneOf": [
-            { "type": "number", "minimum": 0 },
-            { "type": "null" }
-          ],
-          "description": "Discounted price in ILS, used for fixed-price discounts"
-        },
-        "redemptionUrl": {
-          "oneOf": [
-            { "type": "string", "format": "uri" },
-            { "type": "null" }
-          ],
-          "description": "URL to redeem the discount"
-        },
-        "onlineRedemption": {
-          "oneOf": [
-            { "type": "boolean" },
-            { "type": "null" }
-          ],
-          "description": "Whether the discount can be redeemed online"
-        },
-        "mobileRedemption": {
-          "oneOf": [
-            { "type": "boolean" },
-            { "type": "null" }
-          ],
-          "description": "Whether the discount can be redeemed via mobile app"
-        },
-        "sourceUrl": {
-          "oneOf": [
-            { "type": "string", "format": "uri" },
-            { "type": "null" }
-          ],
-          "description": "URL source where this discount was verified"
-        },
-        "lastVerified": {
-          "oneOf": [
-            { "type": "string", "format": "date" },
-            { "type": "null" }
-          ],
-          "description": "ISO 8601 date when this discount was last verified (YYYY-MM-DD)"
-        },
-        "verificationStatus": {
-          "type": "string",
-          "enum": ["verified", "seed", "unverified", "outdated"],
-          "description": "Current verification status of this discount record"
-        },
-        "_meta": {
-          "type": "object",
-          "required": ["source", "note"],
-          "additionalProperties": false,
-          "properties": {
-            "source": {
-              "type": "string",
-              "description": "Where this data originated (e.g. 'seed-data', 'manual-verification')"
-            },
-            "note": {
-              "type": "string",
-              "description": "Human-readable note about data quality or provenance"
-            }
-          }
-        }
+        "url": { "type": "string", "format": "uri" }
       }
     }
   },
@@ -205,9 +73,9 @@
       "type": "array",
       "items": { "$ref": "#/definitions/brand" }
     },
-    "discounts": {
+    "listings": {
       "type": "array",
-      "items": { "$ref": "#/definitions/discount" }
+      "items": { "$ref": "#/definitions/listing" }
     }
   }
 }
