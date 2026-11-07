@@ -69,13 +69,81 @@ NAME_ALIASES = {
 }
 
 
+_HEBREW = {
+    "א": "",
+    "ב": "b",
+    "ג": "g",
+    "ד": "d",
+    "ה": "h",
+    "ו": "v",
+    "ז": "z",
+    "ח": "h",
+    "ט": "t",
+    "י": "i",
+    "כ": "k",
+    "ך": "k",
+    "ל": "l",
+    "מ": "m",
+    "ם": "m",
+    "נ": "n",
+    "ן": "n",
+    "ס": "s",
+    "ע": "a",
+    "פ": "p",
+    "ף": "p",
+    "צ": "ts",
+    "ץ": "ts",
+    "ק": "k",
+    "ר": "r",
+    "ש": "sh",
+    "ת": "t",
+}
+
+
 def normalize_name(name: str) -> str:
-    text = clean_text(name).casefold()
+    text = clean_text(name)
+    if ":" in text:
+        right = text.split(":", 1)[1].strip()
+        if right:
+            text = right
+    text = text.casefold()
     text = text.replace("׳", "").replace("'", "").replace("`", "").replace('"', "").replace("״", "")
     text = re.sub(r"\b(online|אונליין|אונלין)\b", " ", text)
     text = re.sub(r"^רשת\s+", "", text)
-    text = re.sub(r"\s+", " ", text).strip()
+    text = re.sub(r"[^0-9a-z\u0590-\u05ff]+", "", text)
     return NAME_ALIASES.get(text, text)
+
+
+def phonetic_key(text: str) -> str:
+    chars = list(text)
+    out: list[str] = []
+    index = 0
+    while index < len(chars):
+        char = chars[index]
+        if char == "א" and index + 1 < len(chars) and chars[index + 1] in "יו":
+            out.append("i" if chars[index + 1] == "י" else "o")
+            index += 2
+            continue
+        if char == "ה" and index == len(chars) - 1:
+            out.append("a")
+            index += 1
+            continue
+        if "א" <= char <= "ת":
+            out.append(_HEBREW.get(char, ""))
+        elif char.isascii() and char.isalnum():
+            out.append(char)
+        index += 1
+    return "".join(out)
+
+
+def script_kind(key: str) -> str:
+    hebrew = bool(re.search(r"[\u0590-\u05ff]", key))
+    latin = bool(re.search(r"[a-z]", key))
+    if hebrew and not latin:
+        return "he"
+    if latin and not hebrew:
+        return "lat"
+    return "other"
 
 
 def slugify(name: str, normalized: str) -> str:

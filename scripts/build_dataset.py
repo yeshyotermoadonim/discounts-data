@@ -22,7 +22,7 @@ from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 
-from common import DEFAULT_DUMP, NEW_CATEGORIES, normalize_name, slugify
+from common import DEFAULT_DUMP, NEW_CATEGORIES, normalize_name, phonetic_key, script_kind, slugify
 from parse_behatsdaa import parse as parse_behatsdaa
 from parse_buyme import parse as parse_buyme
 from parse_hever import parse as parse_hever
@@ -43,12 +43,52 @@ def prefer_name(current: str, incoming: str) -> str:
     def score(name: str) -> tuple:
         folded = name.casefold()
         return (
-            "אונליין" in folded or "online" in folded,
+            "אונליין" in folded or "online" in folded or ":" in name,
             folded.startswith("רשת"),
             len(name),
         )
 
     return incoming if score(incoming) < score(current) else current
+
+
+def absorb(brands_by_key: dict, listings_by_pair: dict, keep_key: str, drop_key: str) -> None:
+    if keep_key == drop_key or drop_key not in brands_by_key:
+        return
+    keep = brands_by_key[keep_key]
+    drop = brands_by_key.pop(drop_key)
+    keep["name"] = prefer_name(keep["name"], drop["name"])
+    if keep["logoUrl"] is None and drop["logoUrl"]:
+        keep["logoUrl"] = drop["logoUrl"]
+    for category_id in drop["categories"]:
+        if category_id not in keep["categories"]:
+            keep["categories"].append(category_id)
+    for pair, row in list(listings_by_pair.items()):
+        if row["brandId"] != drop["id"]:
+            continue
+        del listings_by_pair[pair]
+        moved = {**row, "brandId": keep["id"]}
+        current = listings_by_pair.get((moved["clubId"], keep["id"]))
+        if current is None:
+            listings_by_pair[(moved["clubId"], keep["id"])] = moved
+        else:
+            current["online"] = current["online"] or moved["online"]
+
+
+def absorb_cross_script(brands_by_key: dict, listings_by_pair: dict) -> None:
+    latin: dict[str, list[str]] = {}
+    hebrew: list[tuple[str, str]] = []
+    for key in list(brands_by_key):
+        sound = phonetic_key(key)
+        if len(sound) < 4:
+            continue
+        kind = script_kind(key)
+        if kind == "lat":
+            latin.setdefault(sound, []).append(key)
+        elif kind == "he":
+            hebrew.append((key, sound))
+    for key, sound in hebrew:
+        for latin_key in latin.get(sound, []):
+            absorb(brands_by_key, listings_by_pair, latin_key, key)
 
 
 def build(limit: int | None, dump: Path, buyme: Path | None = None) -> dict:
@@ -115,6 +155,8 @@ def build(limit: int | None, dump: Path, buyme: Path | None = None) -> dict:
             }
         else:
             current["online"] = current["online"] or bool(row["online"])
+
+    absorb_cross_script(brands_by_key, listings_by_pair)
 
     for brand in brands_by_key.values():
         specific = [category_id for category_id in brand["categories"] if category_id != "other"]
